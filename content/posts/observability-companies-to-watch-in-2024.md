@@ -93,7 +93,7 @@ telemetry data. However, this pricing model can become expensive for teams with
 separate logs, metrics, and traces looking to migrate to Honeycomb. Instead of
 being able to send their data as-is and incrementally migrate towards an
 Observability 2.0 approach, teams must choose to either sample data or dedicate
-resources to creating structued log events. I believe Honeycomb has a great
+resources to creating structured log events. I believe Honeycomb has a great
 opportunity here to enhance this experience and better support teams in this
 scenario.
 

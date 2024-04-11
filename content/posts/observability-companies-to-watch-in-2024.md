@@ -429,7 +429,7 @@ supplant them.
 [axiom-apl]: https://axiom.co/docs/apl/introduction "Axiom Processing Language"
 [axiom-community]: https://axiom.co/support "Axiom community"
 [axiom-ingest-api]: https://axiom.co/docs/restapi/endpoints/ingestIntoDataset "Axiom Ingest API"
-[axiom]: https://docs.honeycomb.io/troubleshoot/community/ "Axiom website"
+[axiom]: https://axiom.co "Axiom website"
 [clickhouse-fast]: https://clickhouse.com/docs/en/concepts/why-clickhouse-is-so-fast "Why is ClickHouse so fast?"
 [clickhouse]: https://clickhouse.com/ "ClickHouse website"
 [datadog-agent]: https://docs.datadoghq.com/agent/ "Datadog Agent"

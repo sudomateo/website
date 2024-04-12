@@ -148,7 +148,7 @@ structured log events, and can be a great competitor if they can execute well.
 Axiom's pricing model is based on ingest, measured in GiB/month. I like this
 pricing model because it's predictable and meets companies where they are in
 their observability journey. Companies can migrate from high volume, narrow
-structured log events to lower volume, wide structued log events without
+structured log events to lower volume, wide structured log events without
 worrying about increasing their bill.
 
 ### Things to Improve

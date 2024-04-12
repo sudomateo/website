@@ -7,7 +7,7 @@ tags: []
 image: "telemetry-data-graph.webp"
 ---
 
-Observability is often described as three pillars--- logs, metrics, and traces.
+Observability is often described as three pillars---logs, metrics, and traces.
 Many companies have been built around this idea, but others have risen to
 challenge it.
 

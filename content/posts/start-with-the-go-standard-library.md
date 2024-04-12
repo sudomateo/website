@@ -22,7 +22,7 @@ Let's understand why.
 
 ## What is a Standard Library?
 
-A [standard libary](https://en.wikipedia.org/wiki/Standard_library) is library
+A [standard library](https://en.wikipedia.org/wiki/Standard_library) is library
 of packages that are included with a programming language. These packages can be
 used without downloading additional source code.
 

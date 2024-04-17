@@ -16,9 +16,9 @@ title               = "Matthew Sanabria"
     remote_brand_image  = "https://github.com/sudomateo.png"
     rss_icon            = true
     rss_section         = ""
-    plausible           = false
+    plausible           = true
     plausible_domain    = "matthewsanabria.dev"
-    plausible_script    = "https://analytics.matthewsanabria.dev/js/script.js"
+    plausible_script    = "https://plausible.io/js/script.js"
 
     # publisher_icon = ""
     # remark42 = true

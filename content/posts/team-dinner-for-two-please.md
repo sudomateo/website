@@ -62,17 +62,17 @@ return from vacation. Before I left for vacation I was asked to fill out a
 spreadsheet to vote for the restaurants I would prefer to have a team dinner at
 and note any dietary restrictions. I wasn't in charge of planning this team
 dinner but I figured the results would be tallied and a place chosen that can
-accomodate the entire team. After all, what good is a team dinner if the entire
-team isn't present?
+accommodate the entire team. After all, what good is a team dinner if the
+entire team isn't present?
 
 When I returned from vacation I asked the obvious question of which restaurant
 was chosen for our team dinner. I was surprised to learn that most of the team
 would be going to one restaurant while two teammates would be going to another.
 Now I'm not against splitting the group when it makes sense-- I know it's
-difficult to find a restaurant that can accomodate all dietary restrictions for
-a large party. I was just confused at the choice to split so far away from
+difficult to find a restaurant that can accommodate all dietary restrictions
+for a large party. I was just confused at the choice to split so far away from
 50/50 when there was a restaurant on the spreadsheet that could easily
-accomodate everyone and was voted for by nearly everyone.
+accommodate everyone and was voted for by nearly everyone.
 
 Since I was on vacation when the decision to split was made I was given the
 opportunity to choose which group I wanted to go with. While I was deciding I
@@ -97,7 +97,7 @@ happen from time to time. For the curious reader, no, I wasn't impacted by this
 layoff. However, the two teammates who were originally split off into a
 separate team dinner group were impacted by this layoff.
 
-Being the natually curious person that I am my mind was ripe with questions.
+Being the naturally curious person that I am my mind was ripe with questions.
 
 - Were these two people purposefully separated in a team dinner group?
 - What other times have people been grouped by performance characteristics?

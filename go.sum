@@ -1,4 +1,2 @@
-github.com/lukeorth/poison v0.0.0-20240122213339-8dffa65ed3a7 h1:VreGN//b4d0o7sWYiF8x2XgOnWq6XjuhTZ2BFCPYoOc=
-github.com/lukeorth/poison v0.0.0-20240122213339-8dffa65ed3a7/go.mod h1:fYVpevZiA79ef8Q1DkUgg/MF53oy4mKFSFTnK+EeiO0=
-github.com/lukeorth/poison v0.0.0-20240318172107-4b36ef57e683 h1:DTqnkULrW8+rj0o73SHFx0g5Sr6erH75Df8KDi3cgKw=
-github.com/lukeorth/poison v0.0.0-20240318172107-4b36ef57e683/go.mod h1:fYVpevZiA79ef8Q1DkUgg/MF53oy4mKFSFTnK+EeiO0=
+github.com/lukeorth/poison v0.0.0-20240805200525-eaec6fbf03d9 h1:ZEmB/vWWLeB/c79SiNKngM8zzIRqt3FCbMkvDRe+vxs=
+github.com/lukeorth/poison v0.0.0-20240805200525-eaec6fbf03d9/go.mod h1:fYVpevZiA79ef8Q1DkUgg/MF53oy4mKFSFTnK+EeiO0=

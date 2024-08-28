@@ -42,18 +42,6 @@ title               = "Matthew Sanabria"
     xmpp_url        = ""
     youtube_url     = "https://www.youtube.com/@sudomateo"
 
-    # Sidebar menu.
-    [[params.menu]]
-        Name        = "About"
-        URL         = "/about"
-        HasChildren = false
-    [[params.menu]]
-        Name        = "Posts"
-        URL         = "/posts"
-        HasChildren = true
-        Limit       = 5
-        # Pre         = "Recent"
-
     # Hex colors for the sidebar.
     moon_sun_background_color   = "#515151" # default is #515151
     moon_sun_color              = "#FFFFFF" # default is #FFFFFF
@@ -65,28 +53,44 @@ title               = "Matthew Sanabria"
     sidebar_socials_color       = "#FFFFFF" # default is #FFFFFF
 
     # Hex colors for the content in light mode.
-    content_bg_color    = "#FAF9F6" # default is #FAF9F6
-    date_color          = "#515151" # default is #515151
-    link_color          = "#268BD2" # default is #268BD2
-    list_color          = "#5A5A5A" # default is #5A5A5A
-    post_title_color    = "#303030" # default is #303030
-    table_border_color  = "#E5E5E5" # default is #E5E5E5
-    table_stripe_color  = "#F9F9F9" # default is #F9F9F9
-    text_color          = "#222222" # default is #222222
+    code_background_color       = "#282828" # default is #E5E5E5
+    code_block_background_color = "#282828" # default is #272822
+    code_block_color            = "#EBDBB2" # default is #FFFFFF
+    code_color                  = "#EBDBB2" # default is #000000
+    content_bg_color            = "#FAF9F6" # default is #FAF9F6
+    date_color                  = "#515151" # default is #515151
+    link_color                  = "#268BD2" # default is #268BD2
+    list_color                  = "#5A5A5A" # default is #5A5A5A
+    post_title_color            = "#303030" # default is #303030
+    table_border_color          = "#E5E5E5" # default is #E5E5E5
+    table_stripe_color          = "#F9F9F9" # default is #F9F9F9
+    text_color                  = "#222222" # default is #222222
 
     # Hex colors for the content in dark mode.
-    code_background_color       = "#E5E5E5" # default is #E5E5E5
-    code_background_color_dark  = "#393D47" # default is #393D47
-    code_color                  = "#BF616A" # default is #BF616A
-    code_color_dark             = "#FF7F7F" # default is #FF7F7F
-    content_bg_color_dark       = "#121212" # default is #121212
-    date_color_dark             = "#9A9A9A" # default is #9A9A9A
-    link_color_dark             = "#268BD2" # default is #268BD2
-    list_color_dark             = "#9D9D9D" # default is #9D9D9D
-    post_title_color_dark       = "#DBE2E9" # default is #DBE2E9
-    table_border_color_dark     = "#515151" # default is #515151
-    table_stripe_color_dark     = "#202020" # default is #202020
-    text_color_dark             = "#EEEEEE" # default is #EEEEEE
+    code_background_color_dark          = "#282828" # default is #515151
+    code_block_background_color_dark    = "#282828" # default is #272822
+    code_block_color_dark               = "#EBDBB2" # default is #FFFFFF
+    code_color_dark                     = "#EBDBB2" # default is #FFFFFF
+    content_bg_color_dark               = "#121212" # default is #121212
+    date_color_dark                     = "#9A9A9A" # default is #9A9A9A
+    link_color_dark                     = "#268BD2" # default is #268BD2
+    list_color_dark                     = "#9D9D9D" # default is #9D9D9D
+    post_title_color_dark               = "#DBE2E9" # default is #DBE2E9
+    table_border_color_dark             = "#515151" # default is #515151
+    table_stripe_color_dark             = "#202020" # default is #202020
+    text_color_dark                     = "#EEEEEE" # default is #EEEEEE
+
+    # Sidebar menu.
+    [[params.menu]]
+        Name        = "About"
+        URL         = "/about"
+        HasChildren = false
+    [[params.menu]]
+        Name        = "Posts"
+        URL         = "/posts"
+        HasChildren = true
+        Limit       = 5
+        # Pre         = "Recent"
 
 [taxonomies]
     series  = "series"

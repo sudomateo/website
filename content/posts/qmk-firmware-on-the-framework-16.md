@@ -19,14 +19,20 @@ need of a refresher.
 
 Generally people use the `qmk` CLI to build and flash devices. The QMK
 documentation has a wonderful [setup guide][2] for that. However, I'm running
-Fedora 40 which no longer has some of the required dependencies in its default
+Fedora 41 which no longer has some of the required dependencies in its default
 repositories (e.g., `dfu-util`). Instead, I decided to use a container to build
 and flash the QMK firmware. Here's another [setup guide][3] for using a
 container.
 
 ## Building the QMK Firmware
 
-Here's the process I used to flash QMK firmware on the Framework 16.
+Here's the process I used to flash QMK firmware on the Framework 16 from my
+Fedora 41 machine.
+
+Configure Linux `udev` rules as described in the [QMK FAQ][4] and reload the
+`udev` rules to take effect immediately. Without this the Framework device will
+not be mounted as a mass storage device and you will be unable to copy the
+built firmware to the Framework device.
 
 Clone the Framework fork of QMK firmware.
 
@@ -83,6 +89,35 @@ index f85eee4d36..d262cde6a0 100644
      ),
 ```
 
+Update the container image used by the Framework fork to work around the bug
+described in
+[FrameworkComputer/qmk_firmware#42](https://github.com/FrameworkComputer/qmk_firmware/issues/42).
+
+```diff
+diff --git a/util/docker_build.sh b/util/docker_build.sh
+index 828b5751af..b158fd8048 100755
+--- a/util/docker_build.sh
++++ b/util/docker_build.sh
+@@ -81,5 +81,5 @@ fi
+        -e ALT_GET_KEYBOARDS=true \
+        -e SKIP_GIT="$SKIP_GIT" \
+        -e MAKEFLAGS="$MAKEFLAGS" \
+-       ghcr.io/qmk/qmk_cli \
++       ghcr.io/qmk/qmk_cli@sha256:d8ebfab96c46d3ab948dd4e87be8a976095bd31268700021a74716cbd6e5b4c1 \
+        make "$keyboard${keymap:+:$keymap}${target:+:$target}"
+diff --git a/util/docker_cmd.sh b/util/docker_cmd.sh
+index 4a82890603..12927c72af 100755
+--- a/util/docker_cmd.sh
++++ b/util/docker_cmd.sh
+@@ -55,5 +55,5 @@ fi
+        $uid_arg \
+        -w /qmk_firmware \
+        -v "$dir":/qmk_firmware \
+-       ghcr.io/qmk/qmk_cli \
++       ghcr.io/qmk/qmk_cli@sha256:d8ebfab96c46d3ab948dd4e87be8a976095bd31268700021a74716cbd6e5b4c1 \
+        "$@"
+```
+
 Build the firmware using a container. The target is in the format
 `KEYBOARD:KEYMAP:TARGET`.
 
@@ -112,10 +147,18 @@ Perform the following process to put the Framework 16 device into bootloader
 mode.
 - Keyboard
     - Remove the keyboard.
-    - While holding the left and right ALT keys, install the keyboard.
+    - Hold the left ALT and right ALT keys on the keyboard. Continue holding the keys until further notice.
+    - Install the keyboard.
+    - Install the trackpad module.
+    - Wait for the mass storage device to be mounted to your machine.
+    - Release the left ALT and right ALT keys.
 - Macro Pad 
     - Remove the macro pad.
-    - While holding the 2 and 6 keys, install the macro pad.
+    - Hold the 2 and 6 keys on the macro pad. Continue holding the keys until further notice.
+    - Install the macro pad.
+    - Install the trackpad module.
+    - Wait for the mass storage device to be mounted to your machine.
+    - Release the 2 and 6 keys.
 
 Since the Framework 16 devices use an RP2040 microcontroller a mass storage
 device will be mounted to your operating system. Check your file explorer to
@@ -126,11 +169,12 @@ storage device. The device will reboot and be flashed.
 
 Repeat this process until you are happy with your keymap. You can always build
 and flash the default firmware if you mess up. The default firmware is also
-available on the [releases page][4] if you really mess up.
+available on the [releases page][5] if you really mess up.
 
 Enjoy your keymap!
 
 [1]: https://community.frame.work/t/custom-qmk-firmware/46459/14 "Framework Community Forum Comment"
 [2]: https://docs.qmk.fm/newbs_getting_started "QMK CLI Setup"
 [3]: https://docs.qmk.fm/getting_started_docker "QMK Container Setup"
-[4]: https://github.com/FrameworkComputer/qmk_firmware/releases "Framework QMK Fork Releases"
+[4]: https://docs.qmk.fm/faq_build#linux-udev-rules "QMK FAQ Linux udev Rules"
+[5]: https://github.com/FrameworkComputer/qmk_firmware/releases "Framework QMK Fork Releases"

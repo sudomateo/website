@@ -374,7 +374,7 @@ Third-party packages:
 
 This question can also be difficult to answer, especially if engineers have
 strong opinions about writing SQL. I've witnessed many engineers spend more
-debating this question than building their application.
+time debating this question than building their application.
 
 Before I answer this question let's define what an object-relational mapping is.
 An

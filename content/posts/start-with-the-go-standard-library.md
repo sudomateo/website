@@ -26,8 +26,11 @@ A [standard library](https://en.wikipedia.org/wiki/Standard_library) is library
 of packages that are included with a programming language. These packages can be
 used without downloading additional source code.
 
-For example, the following hello world program uses the `fmt` package from the
-Go standard library.
+The following program prints `Hello, world!` in bold, red text using the `fmt`
+package from the Go standard library. Excuse the overly verbose comments about
+terminal escape sequences. This example was updated to address
+[feedback on lobste.rs](https://lobste.rs/s/hjufp8/start_with_go_standard_library#c_wsekop)
+that I ended up agreeing with. Thank you, `dhnaranjo`!
 
 ```go
 package main
@@ -37,18 +40,30 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello, world!")
+	// Print "Hello, world!" using bold, red text using terminal escape
+	// sequences. Terminal escape sequences start with `Esc[` and end with `m`.
+	// `\033` is the octal representation for Esc. Styles within a sequence are
+	// delimited with `;`. The normal pattern is to enable some styles with an
+	// escape sequence, print your text with those styles, and disable the
+	// styles with another escape sequence.
+	fmt.Println("\033[1;31mHello, world!\033[0m")
+	//                │ │                    │
+	//                │ │                    └── Reset all styles.
+	//                │ └─────────────────────── Use normal red foreground color.
+	//                └───────────────────────── Use bold font.
 }
 ```
 
-You can run this program like so.
+You can run this program and see the bold, red `Hello, world!` text.
 
 ```sh
 > go run .
 Hello, world!
 ```
 
-Contrast this with the following hello world program that uses the third-party
+Contrast this with the following program that uses the third-party
+`github.com/fatih/color` package. This code is much simpler as the complexity
+of terminal escape sequences has been abstracted into the
 `github.com/fatih/color` package.
 
 ```go
@@ -59,14 +74,15 @@ import (
 )
 
 func main() {
-	// Prints `Hello, world!` in bold red.
+	// Prints `Hello, world!` in bold, red text.
 	c := color.New(color.FgRed).Add(color.Bold)
 	c.Println("Hello, world!")
 }
 ```
 
-Since the `github.com/fatih/color` package is not in the Go standard library,
-you must download its source code and all its dependencies before it can be
+Even though the `github.com/fatih/color` package gave us simpler code for
+terminal escape sequences, its source code is not in the Go standard library.
+You must download its source code and all its dependencies before it can be
 used.
 
 ```sh

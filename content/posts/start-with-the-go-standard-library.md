@@ -19,6 +19,9 @@ These questions are well-intentioned but they all miss a key aspect about Go.
 
 Let's understand why.
 
+> **Note**: Don't forget to initialize a Go module in your current working
+> directory using `go mod init` if you want to follow along.
+
 <!--more-->
 
 ## What is a Standard Library?
@@ -363,7 +366,16 @@ Press Ctrl+C to stop.
 ```
 
 > **Note**: Ensure your `go.mod` file contains `go 1.22` or later otherwise Go
-> will use the older Go 1.21 and earlier `net/http` behavior.
+> will use the older Go 1.21 and earlier `net/http` behavior. See the
+> [Go modules documentation](https://go.dev/doc/modules/gomod-ref#go) for more
+> information on why this is necesssary.
+> ```sh
+> > cat go.mod
+> module github.com/sudomateo/website
+>
+> go 1.22
+> ...
+> ```
 
 From another terminal you can connect to each endpoint to see its response.
 

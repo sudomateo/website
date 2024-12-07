@@ -4,6 +4,7 @@ date: 2024-02-07T00:01:23-05:00
 draft: false
 series: []
 tags: []
+image: "gopher-reading-book.webp"
 ---
 
 When starting a project, new Gophers often ask the following questions.

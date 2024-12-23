@@ -4,7 +4,7 @@ description = ""
 summary     = ""
 keywords    = []
 date        = "2024-02-07T00:01:23-05:00"
-lastmod     = "2024-02-07T00:01:23-05:00"
+lastmod     = "2024-12-23T13:56:52-05:00"
 publishDate = "2024-02-07T00:01:23-05:00"
 draft       = false
 aliases     = []
@@ -373,7 +373,7 @@ Press Ctrl+C to stop.
 > **Note**: Ensure your `go.mod` file contains `go 1.22` or later otherwise Go
 > will use the older Go 1.21 and earlier `net/http` behavior. See the
 > [Go modules documentation](https://go.dev/doc/modules/gomod-ref#go) for more
-> information on why this is necesssary.
+> information on why this is necessary.
 > ```sh
 > > cat go.mod
 > module github.com/sudomateo/website

@@ -1,11 +1,18 @@
----
-title: "Start With the Go Standard Library"
-date: 2024-02-07T00:01:23-05:00
-draft: false
-series: []
-tags: []
-image: "gopher-reading-book.webp"
----
++++
+title       = "Start With the Go Standard Library"
+description = ""
+summary     = ""
+keywords    = []
+date        = "2024-02-07T00:01:23-05:00"
+lastmod     = "2024-02-07T00:01:23-05:00"
+publishDate = "2024-02-07T00:01:23-05:00"
+draft       = false
+aliases     = []
+
+# Taxonomies.
+categories = []
+tags       = []
++++
 
 When starting a project, new Gophers often ask the following questions.
 
@@ -21,8 +28,6 @@ Let's understand why.
 
 > **Note**: Don't forget to initialize a Go module in your current working
 > directory using `go mod init` if you want to follow along.
-
-<!--more-->
 
 ## What is a Standard Library?
 

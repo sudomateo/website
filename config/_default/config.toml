@@ -1,0 +1,14 @@
+# The theme configuration variable is not needed since the theme is installed
+# using Hugo Modules. If the theme changes revisit this.
+# theme = "congo"
+
+baseURL = "https://matthewsanabria.dev"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+summaryLength = 0
+
+[pagination]
+  pagerSize = 10
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

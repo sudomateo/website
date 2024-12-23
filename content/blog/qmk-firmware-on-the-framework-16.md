@@ -1,16 +1,22 @@
----
-title: "QMK Firmware on the Framework 16"
-date: 2024-10-08T18:55:29-04:00
-draft: false
-series: []
-tags: []
----
++++
+title       = "QMK Firmware on the Framework 16"
+description = ""
+summary     = ""
+keywords    = []
+date        = "2024-10-08T18:55:29-04:00"
+lastmod     = "2024-10-08T18:55:29-04:00"
+publishDate = "2024-10-08T18:55:29-04:00"
+draft       = false
+aliases     = []
+
+# Taxonomies.
+categories = []
+tags       = []
++++
 
 The Framework 16 laptop runs QMK firmware on its keyboard and macro pad.
 Unfortunately, the documentation for flashing the firmware isn't exactly clear
 for those new to QMK. Let's consolidate that and flash the firmware together.
-
-<!--more-->
 
 Before I begin I'd like to thank user MJ1 on the Framework community forum for
 [this lovely comment][1] detailing the flashing process. I'm no stranger to QMK

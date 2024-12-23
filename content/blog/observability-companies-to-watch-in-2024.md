@@ -1,19 +1,24 @@
----
-title: "Observability Companies to Watch in 2024"
-date: 2024-03-31T21:07:00-04:00
-draft: false
-series: []
-tags: []
-image: "telemetry-data-graph.webp"
----
++++
+title       = "Observability Companies to Watch in 2024"
+description = ""
+summary     = ""
+keywords    = []
+date        = "2024-03-31T21:07:00-04:00"
+lastmod     = "2024-03-31T21:07:00-04:00"
+publishDate = "2024-03-31T21:07:00-04:00"
+draft       = false
+aliases     = []
+
+# Taxonomies.
+categories = []
+tags       = []
++++
 
 Observability is often described as three pillars---logs, metrics, and traces.
 Many companies have been built around this idea, but others have risen to
 challenge it.
 
 Let's see what observability companies are up to in 2024.
-
-<!--more-->
 
 I've recently been tasked with a project to consolidate observability systems.
 The primary goals were to decrease context switching between systems and

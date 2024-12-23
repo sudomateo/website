@@ -1,14 +1,20 @@
----
-title: "Take the System Initiative"
-date: 2024-09-02T02:04:29-04:00
-draft: false
-series: []
-tags: []
----
++++
+title       = "Take the System Initiative"
+description = ""
+summary     = ""
+keywords    = []
+date        = "2024-09-02T02:04:29-04:00"
+lastmod     = "2024-09-02T02:04:29-04:00"
+publishDate = "2024-09-02T02:04:29-04:00"
+draft       = false
+aliases     = []
+
+# Taxonomies.
+categories = []
+tags       = []
++++
 
 Infrastructure as code is dead. Don't believe me? Read on.
-
-<!--more-->
 
 Odds are you're familiar with infrastructure as code tools like Terraform,
 OpenTofu, and Pulumi. Maybe you like these these tools and use them regularly.

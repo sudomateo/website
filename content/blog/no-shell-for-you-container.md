@@ -1,14 +1,20 @@
----
-title: "No Shell for You, Container"
-date: 2023-12-16T12:44:50-05:00
-draft: false
-series: []
-tags: []
----
++++
+title       = "No Shell for You, Container"
+description = ""
+summary     = ""
+keywords    = []
+date        = "2023-12-16T12:44:50-05:00"
+lastmod     = "2023-12-16T12:44:50-05:00"
+publishDate = "2023-12-16T12:44:50-05:00"
+draft       = false
+aliases     = []
+
+# Taxonomies.
+categories = []
+tags       = []
++++
 
 Build container images `FROM scratch`, they said. It'll be fun, they said.
-
-<!--more-->
 
 ## Difficulties of Minimal Container Images
 

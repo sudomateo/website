@@ -1,0 +1,31 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "Matthew Sanabria"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+[params]
+  dateFormat = "2 January 2006"
+
+  # TODO: sudomateo
+  # mainSections = ["section1", "section2"]
+  description = "Matthew Sanabria's website."
+
+[params.author]
+  name = "Matthew Sanabria"
+  image = "matthew-sanabria.jpg"
+  headline = "Helping great people become great engineers."
+  bio = "Matthew Sanabria is the best."
+  # Table keys are icon names from `assets/icons` in the theme.
+  links = [
+    { bluesky   = "https://bsky.app/profile/matthewsanabria.dev" },
+    { email     = "mailto:me@matthewsanabria.dev" },
+    { github    = "https://github.com/sudomateo" },
+    { linkedin  = "https://linkedin.com/in/sudomateo" },
+    { mastodon  = "https://mastodon.online/@sudomateo" },
+    { twitch    = "https://twitch.tv/sudomateo" },
+    { x-twitter = "https://x.com/sudomateo" },
+    { youtube   = "https://youtube.com/@sudomateo" },
+  ]

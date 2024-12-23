@@ -1,10 +1,18 @@
----
-title: "App Platform Inconsistencies"
-date: 2023-07-31T18:51:58-04:00
-draft: false
-series: []
-tags: []
----
++++
+title       = "App Platform Inconsistencies"
+description = ""
+summary     = ""
+keywords    = []
+date        = "2023-07-31T18:51:58-04:00"
+lastmod     = "2023-07-31T18:51:58-04:00"
+publishDate = "2023-07-31T18:51:58-04:00"
+draft       = false
+aliases     = []
+
+# Taxonomies.
+categories = []
+tags       = []
++++
 
 Not all app platforms are equal. I learned that when I migrated this website
 from [Netlify](https://www.netlify.com/) to [DigitalOcean App
@@ -13,8 +21,6 @@ platform](https://www.digitalocean.com/products/app-platform).
 What I thought would be a simple migration turned into me working around
 assumptions present in Netlify that weren't present in DigitalOcean App
 Platform.
-
-<!--more-->
 
 ## Pre-Migration Architecture
 

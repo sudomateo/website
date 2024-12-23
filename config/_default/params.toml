@@ -1,0 +1,73 @@
+colorScheme       = "fire"
+defaultThemeColor = "#FFFFFF"
+
+defaultAppearance    = "light"
+autoSwitchAppearance = true
+
+enableSearch           = true
+enableCodeCopy         = true
+enableImageLazyLoading = true
+enableImageWebp        = true
+
+fingerprintAlgorithm = "sha256"
+
+[header]
+  layout    = "basic"
+  showTitle = true
+
+[footer]
+  showCopyright          = true
+  showThemeAttribution   = true
+  showAppearanceSwitcher = false
+  showScrollToTop        = true
+
+[homepage]
+  layout      = "profile"
+  showRecent  = true
+  recentLimit = 5
+
+[article]
+  showDate            = true
+  showDateUpdated     = true
+  showAuthor          = true
+  showBreadcrumbs     = true
+  showDraftLabel      = true
+  showEdit            = false
+  editURL             = "https://github.com/sudomateo/website/"
+  editAppendPath      = true
+  showHeadingAnchors  = true
+  showPagination      = true
+  invertPagination    = false
+  showReadingTime     = true
+  showTableOfContents = false
+  showTaxonomies      = true
+  showWordCount       = false
+  showComments        = false
+  # sharingLinks = [
+  #   "email",
+  #   "linkedin",
+  #   "mastodon",
+  #   "x-twitter",
+  # ]
+
+[list]
+  showBreadcrumbs     = true
+  showSummary         = true
+  showTableOfContents = true
+  showTaxonomies      = true
+  groupByYear         = true
+  paginationWidth     = 1
+
+[sitemap]
+  excludedKinds = [
+    "taxonomy",
+    "term",
+  ]
+
+[taxonomy]
+  showTermCount = true
+
+[plausibleAnalytics]
+  domain = "matthewsanabria.dev"
+  event  = "https://plausible.io/api/event"
+  script = "https://plausible.io/js/script.js"

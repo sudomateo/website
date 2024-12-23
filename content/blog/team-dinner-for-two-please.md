@@ -1,15 +1,21 @@
----
-title: "Team Dinner for Two, Please"
-date: 2024-08-15T16:45:46-04:00
-draft: false
-series: []
-tags: []
----
++++
+title       = "Team Dinner for Two, Please"
+description = ""
+summary     = ""
+keywords    = []
+date        = "2024-08-15T16:45:46-04:00"
+lastmod     = "2024-08-15T16:45:46-04:00"
+publishDate = "2024-08-15T16:45:46-04:00"
+draft       = false
+aliases     = []
+
+# Taxonomies.
+categories = []
+tags       = []
++++
 
 Everyone loves a team dinner on the company's dime, but what happens when a
 team dinner is a metric for something else?
-
-<!--more-->
 
 In a previous role I attended an off-site with my remote teammates. For those
 unfamiliar, an off-site is where one or more teams, or organizations, travel to

@@ -1,15 +1,21 @@
----
-title: "Fedora Linux & Hyper-V Enhanced Session Mode"
-date: 2024-09-10T21:30:16-04:00
-draft: false
-series: []
-tags: []
----
++++
+title       = "Fedora Linux & Hyper-V Enhanced Session Mode"
+description = ""
+summary     = ""
+keywords    = []
+date        = "2024-09-10T21:30:16-04:00"
+lastmod     = "2024-09-10T21:30:16-04:00"
+publishDate = "2024-09-10T21:30:16-04:00"
+draft       = false
+aliases     = []
+
+# Taxonomies.
+categories = []
+tags       = []
++++
 
 Let's configure Hyper-V to let us use the full resolution of our monitor for a
 Fedora Linux virtual machine.
-
-<!--more-->
 
 I love using Linux. My distribution of choice is Fedora because it's a stable
 enough rolling release with a strong community. However, I enjoy creating

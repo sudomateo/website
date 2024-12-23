@@ -129,11 +129,11 @@ the following reasons.
   change, making them a great candidate for building higher level abstractions.
   Combine that with Go's [Backward Compatibility](https://go.dev/blog/compat)
   and the stability of the Go standard library really shines.
-- **Extensibility** - The Go standard library is quite extensive. There are
-  packages for logging, interacting with the OS, communicating over the network,
-  and much more. The Go standard library also exposes interfaces such as
-  `io.Reader` that programs can implement to provide custom behavior that's
-  compatible with standard library APIs.
+- **Comprehensive** - The Go standard library has packages for almost anything.
+  There are packages for logging, interacting with the OS, communicating over
+  the network, and much more. The Go standard library also exposes interfaces
+  such as `io.Reader` that programs can implement to provide custom behavior
+  that's compatible with standard library APIs.
 - **Maintainability** - The best code is the code that you can use but don't
   have to maintain. The Go standard library is maintained by engineers that are
   paid to work on Go. This means you don't have to worry about a package in the

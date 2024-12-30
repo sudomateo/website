@@ -1,14 +1,14 @@
 +++
 title       = "Functional Keys with X Keyboard Extension (XKB)"
 description = "Use the X keyboard extension to restore F13-F24 key functionality."
-summary     = "Control your keyboard without modifying system configuration files."
+summary     = "Use the X keyboard extension to restore F13-F24 key functionality."
 keywords    = ["XKB", "macropad"]
 date        = "2024-12-28T00:37:02-05:00"
 lastmod     = "2024-12-28T00:37:02-05:00"
 publishDate = "2024-12-28T00:37:02-05:00"
 draft       = false
 aliases     = []
-featureAlt  = "Back of the Chocopad 4x4 keyboard showing a cute logo and its name."
+featureAlt  = "A Keebio Chocopad 4x4 keyboard with blank keycaps and red backlighting."
 
 # Taxonomies.
 categories = []

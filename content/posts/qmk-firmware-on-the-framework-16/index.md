@@ -1,13 +1,14 @@
 +++
 title       = "QMK Firmware on the Framework 16"
-description = ""
-summary     = ""
-keywords    = []
+description = "Flash the Framework 16 keyboard using QMK firmware."
+summary     = "Flash the Framework 16 keyboard using QMK firmware."
+keywords    = ["framemwork", "qmk", "keyboard"]
 date        = "2024-10-08T18:55:29-04:00"
 lastmod     = "2024-10-08T18:55:29-04:00"
 publishDate = "2024-10-08T18:55:29-04:00"
 draft       = false
 aliases     = []
+featureAlt  = "A Framework 16 keyboard with blank keys."
 
 # Taxonomies.
 categories = []

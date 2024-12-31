@@ -8,6 +8,7 @@ lastmod     = "{{ .Date }}"
 publishDate = "{{ .Date }}"
 draft       = false
 aliases     = []
+featureAlt  = ""
 
 # Taxonomies.
 categories = []

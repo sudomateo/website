@@ -19,6 +19,16 @@
 #   weight = 40
 
 [[main]]
+  identifier = "rss"
+  name = "RSS"
+  weight = 70
+  url = "/index.xml"
+  [main.params]
+    icon = "rss"
+    showName = false
+    target = "_blank"
+
+[[main]]
   identifier = "appearance"
   weight = 80
   [main.params]

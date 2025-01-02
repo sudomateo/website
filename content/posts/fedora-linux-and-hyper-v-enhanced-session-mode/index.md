@@ -8,6 +8,7 @@ lastmod     = "2024-09-10T21:30:16-04:00"
 publishDate = "2024-09-10T21:30:16-04:00"
 draft       = false
 aliases     = []
+featureAlt  = "An enamel pin of the Fedora logo resting on a black wooden table."
 
 # Taxonomies.
 categories = []

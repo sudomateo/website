@@ -8,6 +8,7 @@ lastmod     = "2024-09-02T02:04:29-04:00"
 publishDate = "2024-09-02T02:04:29-04:00"
 draft       = false
 aliases     = []
+featureAlt  = "A System Initiative postcard with a coaster and stickers on top."
 
 # Taxonomies.
 categories = []

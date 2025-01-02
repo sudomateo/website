@@ -4,7 +4,7 @@ description = "Change your tools and change your life in 2025."
 summary     = "Change your tools and change your life in 2025."
 keywords    = ["tools", "ghostty", "fish", "helix", "hx", "jujutsu", "jj", "zed", "nix", "nixos", "ollama", "ai", "llm"]
 date        = "2024-12-31T11:16:49-05:00"
-lastmod     = "2024-12-31T11:16:49-05:00"
+lastmod     = "2025-01-01T20:46:58-05:00"
 publishDate = "2024-12-31T11:16:49-05:00"
 draft       = false
 aliases     = []
@@ -222,7 +222,7 @@ to add to one's toolbelt. I like Ollama for the following reasons.
 - It's local. I don't need internet connectivity to use Ollama which makes it
 great when working on trains, planes, or any other place where your network
 connection is unreliable.
-- It's fast, with a GPU. I run Ollama with a GTX 1080ti on my desktop and an
+- It's fast, with a GPU. I run Ollama with a GTX 1080Ti on my desktop and an
 RX 7700S on my Framework 16 and the speed is great! When I remove the GPU on my
 laptop, which is something I can do with the Framework 16, the speed of Ollama
 takes a hit but it's still acceptable for most use cases.
@@ -247,8 +247,8 @@ tools and then move to yourself. Happy New Year everyone!
 [9]: https://atuin.sh/ "Atuin"
 [10]: https://specifications.freedesktop.org/basedir-spec/latest/ "XDG Base Directory Specification"
 [11]: https://fishshell.com/blog/rustport/ "Fish 4.0: The Fish of Theseus"
-[12]: http://helix-editor.com "Helix"
-[13]: http://kakoune.org/ "Kakoune"
+[12]: https://helix-editor.com "Helix"
+[13]: https://kakoune.org/ "Kakoune"
 [14]: https://neovim.io/ "Neovim"
 [15]: https://jj-vcs.github.io/jj "Jujutsu"
 [16]: https://steveklabnik.github.io/jujutsu-tutorial/ "Steve's Jujutsu Tutorial"

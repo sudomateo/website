@@ -4,7 +4,7 @@ description = "Change your tools and change your life in 2025."
 summary     = "Change your tools and change your life in 2025."
 keywords    = ["tools", "ghostty", "fish", "helix", "hx", "jujutsu", "jj", "zed", "nix", "nixos", "ollama", "ai", "llm"]
 date        = "2024-12-31T11:16:49-05:00"
-lastmod     = "2025-01-01T20:46:58-05:00"
+lastmod     = "2025-01-02T22:01:14-05:00"
 publishDate = "2024-12-31T11:16:49-05:00"
 draft       = false
 aliases     = []
@@ -212,9 +212,9 @@ it but it's something I look forward to learning in 2025.
 
 ## Ollama
 
-[Ollama][19] is a program to run large language models (LLMs) locally on
-your machine. I use Ollama to run models such as `llama3.3`, `mistral`, and
-`codellama`. In fact, Ollama is the primary way that I interact with LLMs
+[Ollama][19] is a program to run large language models (LLMs) locally on your
+machine. I use Ollama to run models such as `llama3.2:3b`, `mistral:7b`, and
+`codellama:7b`. In fact, Ollama is the primary way that I interact with LLMs
 nowadays after I got tired of deciding whether to pay for Anthropic or OpenAI
 each month. There's really not much to say here other than AI is a useful tool
 to add to one's toolbelt. I like Ollama for the following reasons.

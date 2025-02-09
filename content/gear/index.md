@@ -78,11 +78,11 @@ better. I purchased the Dark Green color in the Medium Plus size.
 
 [Link](https://frame.work/products/laptop16-diy-amd-7040)
 
-I have two of these laptops, one for personal use and one for work. They are
-both maxed out with the exception that the work model has 96 GiB of memory and
-the GPU module while the personal model has 64 GiB of memory and no GPU module.
-This laptop feels very much like a v1 product in both a good and bad way which I
-described in
+I have two of these laptops, one for personal use and one for work. Both run
+Fedora and are maxed out with the exception that the work model has 96 GiB of
+memory and the GPU module while the personal model has 64 GiB of memory and no
+GPU module. This laptop feels very much like a v1 product in both a good and bad
+way which I described in
 [this post on X](https://x.com/sudomateo/status/1886843887727136913).
 Even so, I'm happy with my purchase and enjoy supporting a company that's
 tackling the repairable laptop space. I find myself using this laptop much
@@ -95,9 +95,9 @@ a desktop.
 
 I built a desktop back in 2021. You can find the complete parts list in the
 above link but it's an AMD Ryzen 9 5950X with 128 GiB of memory and 2 TiB NVMe.
-For the last few years this was my only personal machine. Nowadays I really only
-use it for more instense video editing or as a server to run virtual machines
-and share storage over the network.
+It runs Fedoar and for the last few years this was my only personal machine.
+Nowadays I really only use it for more intense video editing or as a server to
+run virtual machines and share storage over the network.
 
 ## Computer Peripherals
 

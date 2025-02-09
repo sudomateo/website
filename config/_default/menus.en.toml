@@ -8,6 +8,11 @@
   pageRef = "posts"
   weight = 20
 
+[[main]]
+  name = "Gear"
+  pageRef = "gear"
+  weight = 20
+
 # [[main]]
 #   name = "Categories"
 #   pageRef = "categories"

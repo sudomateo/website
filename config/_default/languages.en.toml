@@ -19,11 +19,11 @@ title = "Matthew Sanabria"
   headline = "Helping great people become great engineers."
   bio      = """\
     Matthew is an engineering leader focused on building reliable, scalable,
-    and observable systems. Matthew is known for using his breadth and depth of
-    experience to add value in minimal context situations and help great people
-    become great engineers through mentoring. In his spare time, Matthew spends
-    time with his family, helps grow his wife's chocolate business, works on home
-    improvement projects, and reads technical resources to learn and tinker.
+    and observable systems. Matthew is known for using his breadth and depth
+    of experience to add value in minimal context situations. In his spare
+    time, Matthew spends time with his family, helps grow his wife's chocolate
+    business, works on home improvement projects, and reads technical resources
+    to learn and tinker.
     """
   # Table keys are icon names from `assets/icons` in the theme.
   links = [

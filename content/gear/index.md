@@ -4,7 +4,7 @@ description = "A list of the gear I use both personally and professionally."
 summary     = "A list of the gear I use both personally and professionally."
 keywords    = ["gear", "desk", "peripheral", "audio", "video", "camera", "keyboard"]
 date        = "2025-02-08T11:49:09-05:00"
-lastmod     = "2025-02-08T11:49:09-05:00"
+lastmod     = "2025-02-10T16:45:00-05:00"
 publishDate = "2025-02-08T11:49:09-05:00"
 draft       = false
 aliases     = []
@@ -130,20 +130,16 @@ closest I've come to my beloved Logitech G9x. People say to use the Logitech MX
 Master but I tried that and it wasn't great for me. I have the wired version of
 this mouse and it works for my needs.
 
-### Dell WD19TB
+### Anker 778
 
-[Link](https://www.dell.com/support/product-details/en-us/product/dell-wd19tb-dock/overview)
+[Link](https://www.anker.com/products/a83a9)
 
-The link is for the support page since the product is discontinued now. I had
-a Dell XPS 15 for work previously and I bought this dock to use the laptop
-at my desk. Fast forward to the present and I'm still using this dock with my
-Framework 16, although it's starting to show its age since it's Thunderbolt 3
-and the Framework 16 ports can do USB4. When I first got this dock I had to use
-Windows to update the firmware but now I can use `fwupdmgr`. The dock was
-good overall but I'll probably replace it soon, perhaps with the
-[Caldigit Thunderbolt Station 4](https://www.caldigit.com/thunderbolt-station-4/)
-if I can nab a used one from some Apple fan that's upgrading to the Thunderbolt
-Station 5.
+I used to have the Dell WD19TB dock but it was Thunderbolt 3 and causing my
+peripherals to rapidly disconnect and reconnect so I swapped it out for the
+Anker 778 since it's Thunderbolt 4. My Framework 16 has USB4 ports which is
+fully supported by Thunderbolt 4. As an added bonus this dock also supports
+Multi-Stream Transport (MST) so I can connect multiple displays to the dock and
+use it as an MST hub.
 
 ### Sabrent USB 3.0 Switch (USB-SW30)
 

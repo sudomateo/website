@@ -67,10 +67,12 @@ like red and orange colors.
 
 [Link](https://grovemade.com/product/matte-desk-pad)
 
-I purchased this but it hasn't arrived yet so I'll update when it arrives. I had
-a SteelSeries desk pad previously but it didn't let the wooden desk breathe. I
-figured the cork bottom on this desk pad would let the wooden desk breathe much
-better. I purchased the Dark Green color in the Medium Plus size.
+I had a SteelSeries desk pad previously but its rubber bottom didn't let my
+wooden desk breathe and would dull the finish after extended use. I figured the
+cork bottom on this Grovemade desk pad would let my wooden desk breathe much
+better and I always wanted to try a Grovemade product. I purchased the Dark
+Green color in the Medium Plus size and am really enjoying it so far. I'll see
+how it wears over time.
 
 ## Computer
 

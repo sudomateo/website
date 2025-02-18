@@ -477,9 +477,9 @@ infrastructure over to System Initiative as I get the time to.
 For my dear reader, are you ready to take the System Initiative?
 
 [oxide]: https://oxide.computer "Oxide Computer Company"
-[system-initiative-asset-explanation]: https://cdn.matthewsanabria.dev/matthewsanabria.dev/system-initiative-asset-explanation.jpg "System Initiative Asset Explanation"
-[system-initiative-oxide-diagram-instance]: https://cdn.matthewsanabria.dev/matthewsanabria.dev/system-initiative-oxide-diagram-instance.jpg "System Initiative Canvas - Oxide Instance"
-[system-initiative-oxide-diagram-ssh-public-key]: https://cdn.matthewsanabria.dev/matthewsanabria.dev/system-initiative-oxide-diagram-ssh-public-key.jpg "System Initiative Canvas - Oxide SSH Public Key"
+[system-initiative-asset-explanation]: system-initiative-asset-explanation.jpg "System Initiative Asset Explanation"
+[system-initiative-oxide-diagram-instance]: system-initiative-oxide-diagram-instance.jpg "System Initiative Canvas - Oxide Instance"
+[system-initiative-oxide-diagram-ssh-public-key]: system-initiative-oxide-diagram-ssh-public-key.jpg "System Initiative Canvas - Oxide SSH Public Key"
 [system-initiative]: https://systeminit.com "System Initiative"
 [system-initiative-discord]: https://discord.gg/system-init "System Initiative Discord"
 [system-initiative-shipit]: https://shipit.show/119 "System Initiative Discord"

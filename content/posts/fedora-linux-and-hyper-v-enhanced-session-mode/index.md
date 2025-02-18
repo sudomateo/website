@@ -149,6 +149,6 @@ logging in.][hyper-v-vm]
 
 [broadcom-vmware]: https://investors.broadcom.com/news-releases/news-release-details/broadcom-completes-acquisition-vmware "Broadcom Completes Acquisition of VMware"
 [hyper-v-enhanced-session-mode]: https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/user-guide/enhanced-session-mode "Enhanced Session Mode"
-[hyper-v-prompt]: https://cdn.matthewsanabria.dev/matthewsanabria.dev/hyper-v-enhanced-session-mode-prompt.png "Hyper-V Enhanced Session Mode Prompt"
-[hyper-v-rdp-login]: https://cdn.matthewsanabria.dev/matthewsanabria.dev/hyper-v-enhanced-session-mode-rdp-login.png "Hyper-V Enhanced Session Mode RDP Login"
-[hyper-v-vm]: https://cdn.matthewsanabria.dev/matthewsanabria.dev/hyper-v-enhanced-session-mode-vm.png "Hyper-V Enhanced Session Mode VM"
+[hyper-v-prompt]: hyper-v-enhanced-session-mode-prompt.png "Hyper-V Enhanced Session Mode Prompt"
+[hyper-v-rdp-login]: hyper-v-enhanced-session-mode-rdp-login.png "Hyper-V Enhanced Session Mode RDP Login"
+[hyper-v-vm]: hyper-v-enhanced-session-mode-vm.png "Hyper-V Enhanced Session Mode VM"

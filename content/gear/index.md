@@ -95,7 +95,7 @@ a desktop.
 
 I built a desktop back in 2021. You can find the complete parts list in the
 above link but it's an AMD Ryzen 9 5950X with 128 GiB of memory and 2 TiB NVMe.
-It runs Fedoar and for the last few years this was my only personal machine.
+It runs Fedora and for the last few years this was my only personal machine.
 Nowadays I really only use it for more intense video editing or as a server to
 run virtual machines and share storage over the network.
 

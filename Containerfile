@@ -22,5 +22,3 @@ RUN hugo --destination public
 FROM nginx:latest
 
 COPY --from=builder /app/public /usr/share/nginx/html
-
-RUN ls -la /usr/share/nginx/html

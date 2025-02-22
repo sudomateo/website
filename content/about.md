@@ -8,7 +8,7 @@ summary: |
   Learn more about Matthew Sanabria.
 ---
 
-Hello everyone, I'm Matthew Sanabria.
+Hello everyone, I'm Matthew Sanabria!
 
 I'm a Software Engineer specializing in distributed systems, observability, and
 scaling infrastructure. I'm known for expert debugging skills, exceptional

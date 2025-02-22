@@ -28,4 +28,5 @@ jobs:
         with:
           file: Containerfile
           push: true
-          tags: sudomateo/website:latest
+          tags: ghcr.io/sudomateo/website:latest
+          platforms: "linux/amd64,linux/arm64"

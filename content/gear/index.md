@@ -87,9 +87,7 @@ GPU module. This laptop feels very much like a v1 product in both a good and bad
 way which I described in
 [this post on X](https://x.com/sudomateo/status/1886843887727136913).
 Even so, I'm happy with my purchase and enjoy supporting a company that's
-tackling the repairable laptop space. I find myself using this laptop much
-more than my desktop which is surprising since I historically favored using
-a desktop.
+focused on repairable, sustainable computers.
 
 ### Custom Desktop
 
@@ -97,9 +95,11 @@ a desktop.
 
 I built a desktop back in 2021. You can find the complete parts list in the
 above link but it's an AMD Ryzen 9 5950X with 128 GiB of memory and 2 TiB NVMe.
-It runs Fedora and for the last few years this was my only personal machine.
-Nowadays I really only use it for more intense video editing or as a server to
-run virtual machines and share storage over the network.
+It runs Fedora and was my only personal machine for the past few years. I prefer
+to use a desktop when I can since laptops generally don't have the ability
+to run custom PCIe devices, run out of battery, and spin the fans loud during
+streaming and recordinng. I use this desktop for streaming, recording, editing,
+podcasting, and all personal project work.
 
 ## Computer Peripherals
 
@@ -165,8 +165,7 @@ this when I heard line noise while monitoring the audio interface output. When I
 unplugged all other devices from the hub or plugged the audio interface directly
 into the computer the line noise disappeared. Perhaps I can replace this with
 a USB hub that has better shielding but I'm considering eliminating this device
-altogether by running my desktop headless and just using the laptop as my
-primary machine. We'll see.
+altogether in a future desk setup. We'll see.
 
 ### Roost V3 Laptop Stand
 

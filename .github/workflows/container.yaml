@@ -10,6 +10,14 @@ jobs:
   container-build-push:
     runs-on: ubuntu-latest
     steps:
+      - name: Generate Container Image Tag
+        id: image_tag
+        run: |
+          ref=${GITHUB_REF##*/}
+          sha=${GITHUB_SHA::8}
+          timestamp=$(date +%s)
+          echo "::set-output name=image_tag::${ref}-${sha}-${timestamp}"  
+
       - name: Login to GitHub Container Registry
         uses: docker/login-action@v3
         with:
@@ -31,6 +39,7 @@ jobs:
           tags: |
             ghcr.io/sudomateo/website:latest
             ghcr.io/sudomateo/website:${{ github.sha }}
+            ghcr.io/sudomateo/website:${{ steps.prep.outputs.image_tag }}
           platforms: |
             linux/amd64
             linux/arm64

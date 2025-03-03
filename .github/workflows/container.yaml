@@ -39,7 +39,7 @@ jobs:
           tags: |
             ghcr.io/sudomateo/website:latest
             ghcr.io/sudomateo/website:${{ github.sha }}
-            ghcr.io/sudomateo/website:${{ steps.prep.outputs.image_tag }}
+            ghcr.io/sudomateo/website:${{ steps.image_tag.outputs.image_tag }}
           platforms: |
             linux/amd64
             linux/arm64

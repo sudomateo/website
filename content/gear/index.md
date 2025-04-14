@@ -4,7 +4,7 @@ description = "A list of the gear I use both personally and professionally."
 summary     = "A list of the gear I use both personally and professionally."
 keywords    = ["gear", "desk", "peripheral", "audio", "video", "camera", "keyboard"]
 date        = "2025-02-08T11:49:09-05:00"
-lastmod     = "2025-02-10T16:45:00-05:00"
+lastmod     = "2025-04-14T18:47:00-05:00"
 publishDate = "2025-02-08T11:49:09-05:00"
 draft       = false
 aliases     = []
@@ -76,6 +76,19 @@ how it wears over time.
 
 ## Computer
 
+### Custom Workstation
+
+[Link](https://pcpartpicker.com/list/qTdCKq)
+
+I built this workstation back in 2025. You can find the complete parts list
+in the above link but it's an AMD Ryzen 9 9950X3D, 256 GiB of memory, an AMD
+9070 XT, and a 4 TiB NVMe. I use this workstation for everything- programming,
+gaming, rendering, AI workloads, streaming, recording, and anything else that
+comes up. It runs Windows for compatibility with peripherals and software but
+most of the programming work happens either in WSL2, by SSHing somewhere else,
+or via some computer that's connected to a capture card for recording and
+streaming.
+
 ### Framework Laptop 16
 
 [Link](https://frame.work/products/laptop16-diy-amd-7040)
@@ -88,18 +101,6 @@ way which I described in
 [this post on X](https://x.com/sudomateo/status/1886843887727136913).
 Even so, I'm happy with my purchase and enjoy supporting a company that's
 focused on repairable, sustainable computers.
-
-### Custom Desktop
-
-[Link](https://pcpartpicker.com/b/CRx6Mp)
-
-I built a desktop back in 2021. You can find the complete parts list in the
-above link but it's an AMD Ryzen 9 5950X with 128 GiB of memory and 2 TiB NVMe.
-It runs Fedora and was my only personal machine for the past few years. I prefer
-to use a desktop when I can since laptops generally don't have the ability
-to run custom PCIe devices, run out of battery, and spin the fans loud during
-streaming and recordinng. I use this desktop for streaming, recording, editing,
-podcasting, and all personal project work.
 
 ## Computer Peripherals
 
@@ -121,7 +122,7 @@ time to give it a go. I also really liked ZSA's stance on sustainability which
 they discussed more on [Changelog Interviews #608](https://changelog.fm/608). If
 I had to buy a split keyboard again today it would be a tough decision between
 the ZSA Moonlander and the Kinesis Advantage360 Pro. I have the Dark Matter
-color with blank keycaps and lubed Zilent V2 switches.
+color with blank keycaps and lubed TTC Silent Bluish White V2 switches.
 
 ### Logitech G502 X
 
@@ -132,7 +133,7 @@ closest I've come to my beloved Logitech G9x. People say to use the Logitech MX
 Master but I tried that and it wasn't great for me. I have the wired version of
 this mouse and it works for my needs.
 
-### Anker 778
+### Anker 778 Thunderbolt Docking Station (A83A9)
 
 [Link](https://www.anker.com/products/a83a9)
 
@@ -143,29 +144,15 @@ fully supported by Thunderbolt 4. As an added bonus this dock also supports
 Multi-Stream Transport (MST) so I can connect multiple displays to the dock and
 use it as an MST hub.
 
-### Sabrent USB 3.0 Switch (USB-SW30)
+### Anker USB 3.0 Switch (A83K3)
 
-[Link](https://sabrent.com/products/usb-sw30)
+[Link](https://www.anker.com/products/a83k3)
 
-I needed a way to switch between my desktop and laptop without swapping a
-bunch of cables. I have a powered USB hub plugged into this switch with all my
-peripherals on it. Then this switch is plugged into both my desktop and laptop.
-Switching is just a press of this button and an input switch on my monitor.
-Not bad.
-
-### Sabrent 10-Port 60W USB 3.0 Hub (HB-BU10)
-
-[Link](https://sabrent.com/products/hb-bu10)
-
-I went with a powered USB hub so it could adequately power my peripherals and
-slowly charge things if necessary. All my peripherals are plugged into this,
-including my audio interface. The only thing I'll note is there can be line
-noise from the USB ports if you have multiple devices plugged in. I noticed
-this when I heard line noise while monitoring the audio interface output. When I
-unplugged all other devices from the hub or plugged the audio interface directly
-into the computer the line noise disappeared. Perhaps I can replace this with
-a USB hub that has better shielding but I'm considering eliminating this device
-altogether in a future desk setup. We'll see.
+I needed a way to switch between my primary and secondary computers without
+swapping a bunch of cables. I have a keyboard and mouse plugged into this switch
+and then the switch is connected to both my primary and secondary computers.
+Switching computers is just a press of this button and an input switch on my
+monitor. Not bad.
 
 ### Roost V3 Laptop Stand
 
@@ -212,28 +199,18 @@ creators on Twitch and YouTube. Perhaps I should have done more research since I
 had to buy a preamp to really get the most out of this microphone with my audio
 interface.
 
-### Cloud Microphones Cloudlifter CL-1
+### Rode Rodecaster Duo
 
-[Link](https://www.cloudmicrophones.com/cloudlifter-cl-1)
+[Link](https://rode.com/en-us/interfaces-and-mixers/rodecaster-series/rodecaster-duo)
 
-I picked up this preamp to increase the gain on my SM7B before the input gets
-to my audio interface. If I did more research upfront I could have gotten a more
-powerful audio interface instead of buying this. It works well though and made
-my SM7B much better for my use case. When I first bought it I forgot to buy an
-extra XLR cable so remember to do that if you buy one for yourself.
-
-### Focusrite Scarlett 2i2 (3rd Gen)
-
-[Link](https://us.focusrite.com/products/scarlett-2i2-3rd-gen)
-
-I needed an audio interface to receive the input from my microphone to so I
-picked this up. I really like this audio interface but I don't find it powerful
-enough to drive the SM7B without a preamp. That is, unless you want the SM7B
-right up on them lips. I could have gotten away with the Scarlett Solo which
-only has one XLR input since I never use the second input on my Scarlett 2i2.
-Get the 4th Gen if you want the inputs on the back of the device instead of the
-front like the 3rd Gen. I also use this to transmit the output audio from my
-computer to my headphone amp and speakers. It's a great little box honestly.
+I replaced the Cloudlifter CL-1, the Focusrite Scarlett 2i2 (3rd Gen), and the
+Schiit Vali 2 with this Rodecaster Duo and I should have just bit the bullet
+up front and got this device way sooner. I have USB 1 plugged into my Windows
+workstation so that it gets access to 2 inputs and 2 outputs for separating
+general audio from background audio like Discord chat or music. Then I have USB
+2 plugged into my secondary Linux computer to get 1 input and 1 output. This
+allows me to share my microphone and headphones with both computers without ever
+having to switch cables or connections. Love this thing!
 
 ### Beyerdynamic DT 990 Pro
 
@@ -246,18 +223,6 @@ I love that they are open-back so my ears breathe and I can hear my dogs fussing
 around in the room when I'm working. There's good third-party support for
 repairing them and getting new parts which I've done a few times in the many
 years I've had them. I have the 250 Ohms model.
-
-### Schiit Vali 2
-
-[Link](https://www.schiit.com/products/vali3)
-
-The link above is for the newer Vali 3 but I have the Vali 2. This headphone
-amp drives my DT 990 Pro headphones well and lets me hear things I haven't heard
-before in songs and video games. I used to play a lot of Rust where sound is
-important so having an amp drive my headphones was a great experience. This amp
-also has a line output to send audio to another device when the headphones are
-unplugged. I use this to send audio to my speakers when I don't want to wear
-headphones.
 
 ### Micca PB42X Powered Bookshelf Speakers
 
@@ -290,29 +255,29 @@ purchase.
 
 [Link](https://www.orei.com/products/uhds102-ultrahd-1-in-2-hdmi-splitter)
 
-My camera is connected to this HDMI splitter to send the video signal to both my
-desktop and laptop. I bought this solely because I got tired swapping the HDMI
-cables connected to my camera when switching between my laptop and desktop.
+My secondary computer is connected to this HDMI splitter to send the video
+signal to both my monitor and my workstation for capture.
 
 ### Blackmagic Design DeckLink Mini Recorder 4K
 
 [Link](https://www.blackmagicdesign.com/products/decklink)
 
-I bought this capture card to connect my camera to my desktop. I had an Elgato
-card before this but Elgato doesn't support Linux so I gave that card away
-for free. This card supports Linux at a lower price point than Magewell cards
-and I've used Blackmagic Design's DaVinci Resolve video editor before so I was
-familiar with the brand.
+I bought this capture card to connect my secondary computer to my workstation.
+I had an Elgato card before this but Elgato doesn't support Linux so I gave
+that card away for free. This card supports Linux at a lower price point than
+Magewell cards and I've used Blackmagic Design's DaVinci Resolve video editor
+before so I was familiar with the brand. Even though I use this card in Windows
+I like having the ability to change OS and have hardware remain compatible.
 
 ### Blackmagic Design UltraStudio Recorder 3G
 
 [Link](https://www.blackmagicdesign.com/products/ultrastudio)
 
-I bought this capture card to connect my camera to my laptop at home and when
-traveling. It connects using Thunderbolt 3 to provide data and power. This
-card supports Linux at a lower price point than Magewell cards and I've used
-Blackmagic Design's DaVinci Resolve video editor before so I was familiar with
-the brand.
+I bought this capture card to connect my camera to whatever machine needs it,
+even when traveling. It connects using Thunderbolt 3 to provide data and power.
+This card supports Linux at a lower price point than Magewell cards and I've
+used Blackmagic Design's DaVinci Resolve video editor before so I was familiar
+with the brand.
 
 ## Lighting
 
@@ -341,4 +306,3 @@ adjustable, and from a popular, reputable rigging brand.
 I have three of these to mount my camera and two lights to rigging. The quick
 disconnect feature is great when I want to take my camera with me without
 ruining its placement at my desk.
-

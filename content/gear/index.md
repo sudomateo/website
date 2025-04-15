@@ -78,7 +78,7 @@ how it wears over time.
 
 ### Custom Workstation
 
-[Link](https://pcpartpicker.com/list/qTdCKq)
+[Link](https://pcpartpicker.com/b/x7Y9TW)
 
 I built this workstation back in 2025. You can find the complete parts list
 in the above link but it's an AMD Ryzen 9 9950X3D, 256 GiB of memory, an AMD

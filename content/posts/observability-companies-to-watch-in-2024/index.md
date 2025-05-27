@@ -1,13 +1,14 @@
 +++
 title       = "Observability Companies to Watch in 2024"
-description = ""
-summary     = ""
+description = "Observability companies worth watching in 2024."
+summary     = "Observability companies worth watching in 2024."
 keywords    = []
 date        = "2024-03-31T21:07:00-04:00"
 lastmod     = "2024-03-31T21:07:00-04:00"
 publishDate = "2024-03-31T21:07:00-04:00"
 draft       = false
 aliases     = []
+featureAlt  = "A telemetry line graph showing the number of traces for an application."
 
 # Taxonomies.
 categories = []

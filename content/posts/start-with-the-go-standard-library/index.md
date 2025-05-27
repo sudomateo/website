@@ -1,13 +1,14 @@
 +++
 title       = "Start With the Go Standard Library"
-description = ""
-summary     = ""
+description = "There are wonderful packages in the Go standard library."
+summary     = "There are wonderful packages in the Go standard library."
 keywords    = []
 date        = "2024-02-07T00:01:23-05:00"
 lastmod     = "2024-12-23T13:56:52-05:00"
 publishDate = "2024-02-07T00:01:23-05:00"
 draft       = false
 aliases     = []
+featureAlt  = ""
 
 # Taxonomies.
 categories = []

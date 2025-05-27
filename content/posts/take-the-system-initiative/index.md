@@ -1,7 +1,7 @@
 +++
 title       = "Take the System Initiative"
-description = ""
-summary     = ""
+description = "The future of DevOps automation."
+summary     = "The future of DevOps automation."
 keywords    = []
 date        = "2024-09-02T02:04:29-04:00"
 lastmod     = "2024-09-02T02:04:29-04:00"

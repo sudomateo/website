@@ -1,13 +1,14 @@
 +++
 title       = "No Shell for You, Container"
-description = ""
-summary     = ""
+description = "Debug a container without access to a shell."
+summary     = "Debug a container without access to a shell."
 keywords    = []
 date        = "2023-12-16T12:44:50-05:00"
 lastmod     = "2023-12-16T12:44:50-05:00"
 publishDate = "2023-12-16T12:44:50-05:00"
 draft       = false
 aliases     = []
+featureAlt  = ""
 
 # Taxonomies.
 categories = []

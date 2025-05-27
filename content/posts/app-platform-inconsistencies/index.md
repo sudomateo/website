@@ -1,13 +1,14 @@
 +++
 title       = "App Platform Inconsistencies"
-description = ""
-summary     = ""
+description = "Pain points with DigitalOcean's App Platform."
+summary     = "Pain points with DigitalOcean's App Platform."
 keywords    = []
 date        = "2023-07-31T18:51:58-04:00"
 lastmod     = "2023-07-31T18:51:58-04:00"
 publishDate = "2023-07-31T18:51:58-04:00"
 draft       = false
 aliases     = []
+featureAlt  = ""
 
 # Taxonomies.
 categories = []

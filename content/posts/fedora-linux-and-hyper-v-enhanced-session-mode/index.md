@@ -1,7 +1,7 @@
 +++
 title       = "Fedora Linux & Hyper-V Enhanced Session Mode"
-description = ""
-summary     = ""
+description = "Use full monitor resolution with Hyper-V enhanced session mode."
+summary     = "Use full monitor resolution with Hyper-V enhanced session mode."
 keywords    = []
 date        = "2024-09-10T21:30:16-04:00"
 lastmod     = "2024-09-10T21:30:16-04:00"

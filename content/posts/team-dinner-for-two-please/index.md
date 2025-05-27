@@ -1,13 +1,14 @@
 +++
 title       = "Team Dinner for Two, Please"
-description = ""
-summary     = ""
+description = "A team dinner may be a metric for something else."
+summary     = "A team dinner may be a metric for something else."
 keywords    = []
 date        = "2024-08-15T16:45:46-04:00"
 lastmod     = "2024-08-15T16:45:46-04:00"
 publishDate = "2024-08-15T16:45:46-04:00"
 draft       = false
 aliases     = []
+featureAlt  = "A white plate with a fork and knife on either side."
 
 # Taxonomies.
 categories = []

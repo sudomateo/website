@@ -3,9 +3,9 @@ title       = "Gear I Use"
 description = "A list of the gear I use both personally and professionally."
 summary     = "A list of the gear I use both personally and professionally."
 keywords    = ["gear", "desk", "peripheral", "audio", "video", "camera", "keyboard"]
-date        = "2025-02-08T11:49:09-05:00"
-lastmod     = "2025-04-14T18:47:00-05:00"
-publishDate = "2025-02-08T11:49:09-05:00"
+date        = "2025-02-08T12:00:00-05:00"
+lastmod     = "2025-06-11T18:00:00-04:00"
+publishDate = "2025-02-08T12:00:00-05:00"
 draft       = false
 aliases     = []
 featureAlt  = ""
@@ -32,36 +32,35 @@ following principles when buying gear.
 
 [Link](https://desk.haus/products/vertex-pro-diamond-4-leg)
 
-I've only ever used IKEA table tops and legs before buying a serious desk. I
-extensively researched DeskHaus and ultimately decided to go with their standing
-desk frame based on Reddit reviews and the
-[DeskHaus YouTube channel](https://www.youtube.com/@Deskhaus). This is the best
-desk I've ever used in my life, **period**. UPLIFT, Fully, and Autonomous desks
-aren't even in the same league as DeskHaus. It's quite heavy and _extremely_
-stable even when raised to its maximum height. I have the 30" legs, extended
-range height, and programmable switch.
+I've only ever used IKEA table tops and legs before this desk. I
+extensively researched DeskHaus and ultimately decided to go with their
+standing desk frame based on Reddit reviews and the [DeskHaus YouTube
+channel](https://www.youtube.com/@Deskhaus). This is the best desk frame I've
+ever used in my life, **period**. UPLIFT, Fully, and Autonomous desks aren't
+even in the same league as DeskHaus. It's heavy and _extremely_ stable even when
+raised to its maximum height. I have the 30" legs, extended range height, and
+programmable switch.
 
 ### DeskHaus Solid Wood 1.75" Work Surface
 
 [Link](https://desk.haus/products/solid-wood)
 
-I needed a top for my standing desk frame and I wanted real, solid wood.
-DeskHaus stocked solid wood tops so I bought one with my desk. Much like the
-frame, it's also quite heavy and the finish is great. I have a 30"x72" Walnut
-top and I love it. If I could do it again I probably would have just bought a
-top from a local woodworker to save on cost and have more control over style
-and finish.
+I wanted real, solid wood as the top for my desk frame. and DeskHaus stocked
+solid wood tops so I bought one with my desk. Much like the frame, it's also
+heavy and the finish is great. I have a 30"x72" Walnut top and I love it.
+If I could do it again I probably would have just bought a top from a local
+woodworker to save on cost and have more control over style and finish.
 
 ### Herman Miller Embody
 
 [Link](https://www.hermanmiller.com/products/seating/office-chairs/embody-chairs/)
 
-I've only ever used IKEA chairs and I figured it was time to get a real chair
-since I spend a good deal of time sitting for work. I went with this chair
-since the company I worked for at the time had a company discount. It's been a
-great chair and the warranty is fantastic. I've used the warranty to replace the
-bottom fabric after it lifted in a few areas. I have the Canyon fabric since I
-like red and orange colors.
+I've only ever used IKEA chairs before this chair. I figured it was time to get
+a real chair since I spend a good deal of time sitting for work. I went with
+this chair since the company I worked for at the time had a company discount.
+It's been a great chair and the warranty is fantastic. I've used the warranty
+to replace the bottom fabric after it lifted in a few areas. I have the Canyon
+fabric.
 
 ### Grovemade Matte Desk Pad
 
@@ -71,8 +70,7 @@ I had a SteelSeries desk pad previously but its rubber bottom didn't let my
 wooden desk breathe and would dull the finish after extended use. I figured the
 cork bottom on this Grovemade desk pad would let my wooden desk breathe much
 better and I always wanted to try a Grovemade product. I purchased the Dark
-Green color in the Medium Plus size and am really enjoying it so far. I'll see
-how it wears over time.
+Green color in the Medium Plus.
 
 ## Computer
 
@@ -80,35 +78,55 @@ how it wears over time.
 
 [Link](https://pcpartpicker.com/b/x7Y9TW)
 
-I built this workstation back in 2025. You can find the complete parts list
-in the above link but it's an AMD Ryzen 9 9950X3D, 256 GiB of memory, an AMD
-9070 XT, and a 4 TiB NVMe. I use this workstation for everything- programming,
-gaming, rendering, AI workloads, streaming, recording, and anything else that
-comes up. It runs Windows for compatibility with peripherals and software but
-most of the programming work happens either in WSL2, by SSHing somewhere else,
-or via some computer that's connected to a capture card for recording and
-streaming.
+The complete parts list is in the above link but it's an AMD Ryzen 9 9950X3D,
+256 GiB of memory, an AMD 9070 XT, and a 4 TiB NVMe. I use this workstation
+for everything- programming, gaming, rendering, AI workloads, streaming,
+recording, and anything else that comes up. It runs Windows for compatibility
+with peripherals and software but most of the programming work happens either
+in WSL2, by SSHing somewhere else, or via some computer that's connected to a
+capture card for recording and streaming.
 
 ### Framework Laptop 16
 
 [Link](https://frame.work/products/laptop16-diy-amd-7040)
 
-I have two of these laptops, one for personal use and one for work. Both run
-Fedora and are maxed out with the exception that the work model has 96 GiB of
-memory and the GPU module while the personal model has 64 GiB of memory and no
-GPU module. This laptop feels very much like a v1 product in both a good and bad
-way which I described in
-[this post on X](https://x.com/sudomateo/status/1886843887727136913).
-Even so, I'm happy with my purchase and enjoy supporting a company that's
-focused on repairable, sustainable computers.
+I have two of these laptops, one for personal use and one for work. Both
+run Arch Linux and are maxed out with the exception that the work model
+has 96 GiB of memory and the GPU module while the personal model has 64
+GiB of memory and no GPU module. This laptop feels very much like a v1
+product in both a good and bad way which I described in [this post on
+X](https://x.com/sudomateo/status/1886843887727136913). I'm happy with
+my purchase and enjoy supporting a company that's focused on repairable,
+sustainable computers.
 
 ## Computer Peripherals
+
+### Dell U4025QW
+
+[Link](https://www.dell.com/en-us/shop/dell-ultrasharp-40-curved-thunderbolt-hub-monitor-u4025qw/apd/210-bmdp/monitors-monitor-accessories)
+
+I bought this monitor after using my two ASUS PB258Q monitors for 10 years
+with a quick stint using an LG 27UD68P-B. Initially, I was planning on buying
+either a 27" 5K or a 32" 6K monitor but there weren't any that had above a 60Hz
+refresh rate. I ended up buying this monitor since it's 5K at 120Hz and supports
+Thunderbolt 4 connectivity, really USB4 in my case. It's lower pixels per inch
+(PPI) than I wanted but the text is still lovely at 200% scale. I love that it
+has a built-in KVM switch which allowed me to get rid of my dock and USB switch.
+
+This monitor uses multi-stream transport (MST) to split the monitor into
+sections for one computer to treat as two monitors or two computers to treat
+as one monitor. I use its 50%/50% mode with one computer if I want to act like
+I have two monitors (e.g., for screen sharing one monitor and not the other)
+and I use its 25%/75% mode with two computers where the streaming computer
+uses the 25% and the computer being recorded uses the 75% which is a perfect 4K
+resolution. If I'm not doing either of those things I'll just use its 100% mode
+as a single monitor.
 
 ### ZSA Moonlander
 
 [Link](https://www.zsa.io/moonlander)
 
-My keyboard journey has been long to say the least. Here's the journey in a nutshell.
+My keyboard journey has been long.
 
 * Das Keyboard 4 Professional
 * Drop CTRL
@@ -133,34 +151,15 @@ closest I've come to my beloved Logitech G9x. People say to use the Logitech MX
 Master but I tried that and it wasn't great for me. I have the wired version of
 this mouse and it works for my needs.
 
-### Anker 778 Thunderbolt Docking Station (A83A9)
-
-[Link](https://www.anker.com/products/a83a9)
-
-I used to have the Dell WD19TB dock but it was Thunderbolt 3 and causing my
-peripherals to rapidly disconnect and reconnect so I swapped it out for the
-Anker 778 since it's Thunderbolt 4. My Framework 16 has USB4 ports which is
-fully supported by Thunderbolt 4. As an added bonus this dock also supports
-Multi-Stream Transport (MST) so I can connect multiple displays to the dock and
-use it as an MST hub.
-
-### Anker USB 3.0 Switch (A83K3)
-
-[Link](https://www.anker.com/products/a83k3)
-
-I needed a way to switch between my primary and secondary computers without
-swapping a bunch of cables. I have a keyboard and mouse plugged into this switch
-and then the switch is connected to both my primary and secondary computers.
-Switching computers is just a press of this button and an input switch on my
-monitor. Not bad.
-
 ### Roost V3 Laptop Stand
 
 [Link](https://www.therooststand.com/collections/roost-laptop-stand/products/roost-v3-roost-laptop-stand)
 
 This laptop stand is cool because it collapses nicely for travel but it's _way_
 too expensive for what it is. It also doesn't adjust to a low enough height for
-for my liking. I wouldn't buy this again unless the price dropped by 50%.
+for my liking. It does keep my laptop raised though which is nice for cooling,
+saving desk space, and aligning the laptop monitor with another monitor.
+However, I wouldn't buy this again unless the price dropped by 50%.
 
 ## Writing
 
@@ -171,8 +170,8 @@ for my liking. I wouldn't buy this again unless the price dropped by 50%.
 Even though I work with computers I prefer physical writing to digital writing.
 Fountain pens are fun to write with and helped reignite my joy for writing.
 These LAMY safari pens are inexpensive and a popular choice for fountain pens
-users. I have a Yellow pen with a Fine nib that I use for most of my writing and
-an Umbra pen with an Extra Fine nib that I use for drawing detailed diagrams.
+users. I have a Yellow pen with a Fine nib filled with a warm-toned ink and an
+Umbra pen Fine nib filled with black ink.
 
 ### LEUCHTTURM1917 Notebook
 
@@ -195,22 +194,22 @@ and Notebook, both in B5 size and hardcover.
 I had a Blue Yeti previously and I didn't care for its mini USB connection
 and audio quality so I upgraded to the Shure SM7B. Honestly I didn't do much
 research here I just went with the microphone that was most popular with content
-creators on Twitch and YouTube. Perhaps I should have done more research since I
-had to buy a preamp to really get the most out of this microphone with my audio
-interface.
+creators on Twitch and YouTube. Perhaps I should have done more research here
+since I ended up buying a Cloudlifter CL-1 and Focusrite Scarlett 2i2 (3rd Gen)
+to drive this microphone before swapping those out for the Rode Rodecaster Duo.
 
 ### Rode Rodecaster Duo
 
 [Link](https://rode.com/en-us/interfaces-and-mixers/rodecaster-series/rodecaster-duo)
 
-I replaced the Cloudlifter CL-1, the Focusrite Scarlett 2i2 (3rd Gen), and the
-Schiit Vali 2 with this Rodecaster Duo and I should have just bit the bullet
-up front and got this device way sooner. I have USB 1 plugged into my Windows
-workstation so that it gets access to 2 inputs and 2 outputs for separating
-general audio from background audio like Discord chat or music. Then I have USB
-2 plugged into my secondary Linux computer to get 1 input and 1 output. This
-allows me to share my microphone and headphones with both computers without ever
-having to switch cables or connections. Love this thing!
+I replaced the Cloudlifter CL-1, Focusrite Scarlett 2i2 (3rd Gen), and Schiit
+Vali 2 with this Rodecaster Duo and I should have just bit the bullet up front
+and got this device way sooner. I have USB 1 plugged into my Windows workstation
+so that it gets access to 2 inputs and 2 outputs for separating general audio
+from background audio like Discord chat or music. Then I have USB 2 plugged
+into my Linux workstation to get 1 input and 1 output. This allows me to share
+my microphone and headphones with both computers without ever having to switch
+cables or connections. Love this thing!
 
 ### Beyerdynamic DT 990 Pro
 
@@ -223,16 +222,6 @@ I love that they are open-back so my ears breathe and I can hear my dogs fussing
 around in the room when I'm working. There's good third-party support for
 repairing them and getting new parts which I've done a few times in the many
 years I've had them. I have the 250 Ohms model.
-
-### Micca PB42X Powered Bookshelf Speakers
-
-[Link](https://www.miccatron.com/micca-pb42x-powered-bookshelf-speakers/)
-
-When I'm not using my headphones I'm using these speakers. The audio is clear
-and they are powered so I don't need an amp to drive them. My only issue with
-these speakers is their size. If I were to do it again I'd buy smaller speakers
-that didn't take up so much room on my desk. I guess I could buy desk mounts to
-raise the speaker off my desk but... eh.
 
 ## Video
 
@@ -251,23 +240,17 @@ I was also pretty frustrated with the color on USB webcams and wanted to
 fix that. I'm not a photographer by any means but I'm quite happy with this
 purchase.
 
-### OREI 4K HDMI Splitter 1-In-2-Out
-
-[Link](https://www.orei.com/products/uhds102-ultrahd-1-in-2-hdmi-splitter)
-
-My secondary computer is connected to this HDMI splitter to send the video
-signal to both my monitor and my workstation for capture.
-
 ### Blackmagic Design DeckLink Mini Recorder 4K
 
 [Link](https://www.blackmagicdesign.com/products/decklink)
 
-I bought this capture card to connect my secondary computer to my workstation.
-I had an Elgato card before this but Elgato doesn't support Linux so I gave
-that card away for free. This card supports Linux at a lower price point than
-Magewell cards and I've used Blackmagic Design's DaVinci Resolve video editor
-before so I was familiar with the brand. Even though I use this card in Windows
-I like having the ability to change OS and have hardware remain compatible.
+I bought this capture card to connect my Linux workstation to my Windows
+workstation. I had an Elgato card before this but Elgato doesn't support Linux
+so I gave that card away for free. This card supports Linux at a lower price
+point than Magewell cards and I've used Blackmagic Design's DaVinci Resolve
+video editor before so I was familiar with the brand. Even though I use this
+card in Windows I like having the ability to change OS and have hardware remain
+compatible.
 
 ### Blackmagic Design UltraStudio Recorder 3G
 

@@ -3,9 +3,9 @@ title       = "Own Your Email Domain"
 description = "Own the most important part of your online experience."
 summary     = "Own the most important part of your online experience."
 keywords    = []
-date        = "2025-02-01T15:40:15-05:00"
-lastmod     = "2025-02-01T15:40:15-05:00"
-publishDate = "2025-02-01T15:40:15-05:00"
+date        = "2025-02-01T16:00:00-05:00"
+lastmod     = "2025-02-01T16:00:00-05:00"
+publishDate = "2025-06-10T19:00:00-04:00"
 draft       = false
 aliases     = []
 featureAlt  = "A user interface for composing an email message."
@@ -116,21 +116,21 @@ Here's the process to own your own email domain.
 plus an annual renewal fee.
 
 1. Choose an email provider that supports custom email domains (e.g., [Google
-Workspace](https://workspace.google.com/), [Proton Mail](https://proton.me/))
-and sign up for their service. This usually costs a monthy subscription fee.
+Workspace](https://workspace.google.com/), [Proton Mail](https://proton.me/),
+[iCloud Mail](https://support.apple.com/en-in/102540)) and sign up for their
+service. This usually costs a monthy subscription fee.
 
 1. Configure the email provider to use your custom email domain. This is usually
 done by going to the DNS provider for your email domain, which is your domain
 registrar by default, and adding the DNS records that your email provider tells
 you to add. Usually, you'll add the following types of DNS records.
 
-    1. `MX` - Tells email clients which mail servers to use when sending email
-    to your email domain.
+    1. `MX` - Specifies the mail server(s) responsible for accepting email for
+    your domain. `SRV` records can also be used for this per
+    [RFC 6186](https://www.rfc-editor.org/rfc/rfc6186) but it's not common.
 
-    1. `TXT` - Used to verify that you own the email domain and provide advanced
-    email features like SPF and DMARC.
-
-    1. `CNAME` - Used to provide advanced email features like DKIM.
+    1. `TXT`, `CNAME` - Used for domain verification and advanced
+    email features like DKIM, SPF, and DMARC.
 
 1. Log into your email provider and test sending and receiving email via your
 custom email domain.

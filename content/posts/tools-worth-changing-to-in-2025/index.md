@@ -3,9 +3,9 @@ title       = "Tools Worth Changing To in 2025"
 description = "Change your tools and change your life in 2025."
 summary     = "Change your tools and change your life in 2025."
 keywords    = ["tools", "ghostty", "fish", "helix", "hx", "jujutsu", "jj", "zed", "nix", "nixos", "ollama", "ai", "llm"]
-date        = "2024-12-31T11:16:49-05:00"
-lastmod     = "2025-01-02T22:01:14-05:00"
-publishDate = "2024-12-31T11:16:49-05:00"
+date        = "2024-12-31T11:00:00-05:00"
+publishDate = "2024-12-31T11:00:00-05:00"
+lastmod     = "2025-01-02T22:00:00-05:00"
 draft       = false
 aliases     = []
 

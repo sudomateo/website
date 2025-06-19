@@ -30,7 +30,8 @@ following principles when buying gear.
 
 ### DeskHaus Vertex Pro Diamond 4-Leg Frame
 
-[Link](https://desk.haus/products/vertex-pro-diamond-4-leg)
+I believe this model has been discontinued in favor of the [Apex Pro
+Max](https://desk.haus/products/apex-pro-max).
 
 I've only ever used IKEA table tops and legs before this desk. I
 extensively researched DeskHaus and ultimately decided to go with their

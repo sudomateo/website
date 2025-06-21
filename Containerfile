@@ -1,9 +1,9 @@
-ARG GO_VERSION
+ARG GO_VERSION=1.24.0
 
 FROM docker.io/golang:${GO_VERSION} AS builder
 
 ARG TARGETARCH
-ARG HUGO_VERSION
+ARG HUGO_VERSION=0.144.2
 
 # Install curl.
 RUN apt-get update && \
@@ -12,7 +12,6 @@ RUN apt-get update && \
     rm -rf /var/lib/apt/lists/*
 
 # Install Hugo.
-ENV HUGO_VERSION=0.144.2
 RUN curl -L -o /tmp/hugo.tar.gz https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-${TARGETARCH}.tar.gz && \
     tar -xvf /tmp/hugo.tar.gz -C /usr/local/bin hugo && \
     rm -rf /tmp/hugo.tar.gz

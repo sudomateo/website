@@ -1,5 +1,3 @@
-HUGO_VERSION ?= 0.144.2
-GO_VERSION ?= 1.24.0
 CONTAINER_IMAGE ?= localhost/sudomateo/website:latest
 
 CONTAINER_ENGINE := $(shell \
@@ -19,8 +17,6 @@ endif
 build:
 	$(CONTAINER_ENGINE) build \
 		--target builder \
-		--build-arg HUGO_VERSION=$(HUGO_VERSION) \
-		--build-arg GO_VERSION=$(GO_VERSION) \
 		--tag $(CONTAINER_IMAGE) \
 		.
 

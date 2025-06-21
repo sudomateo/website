@@ -1,6 +1,9 @@
-FROM golang:1.24.0 AS builder
+ARG GO_VERSION
+
+FROM docker.io/golang:${GO_VERSION} AS builder
 
 ARG TARGETARCH
+ARG HUGO_VERSION
 
 # Install curl.
 RUN apt-get update && \
@@ -19,6 +22,6 @@ WORKDIR /app
 COPY . .
 RUN hugo --destination public
 
-FROM nginx:latest
+FROM docker.io/nginx:latest AS production
 
 COPY --from=builder /app/public /usr/share/nginx/html

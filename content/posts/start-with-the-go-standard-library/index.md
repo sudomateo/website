@@ -8,7 +8,7 @@ publishDate = "2024-02-07T00:00:00-05:00"
 lastmod     = "2024-12-23T13:00:00-05:00"
 draft       = false
 aliases     = []
-featureAlt  = ""
+featureAlt  = "Go standard library on Go's package website."
 
 # Taxonomies.
 categories = []

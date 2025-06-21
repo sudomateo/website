@@ -1,14 +1,14 @@
 +++
 title       = "Hello, World!"
-description = "A blog is born."
-summary     = "A blog is born."
+description = "Hello, world! I'm Matthew Sanabria."
+summary     = "Hello, world! I'm Matthew Sanabria."
 keywords    = []
 date        = "2023-07-28T23:00:00-04:00"
 publishDate = "2023-07-28T23:00:00-04:00"
 lastmod     = "2025-02-08T23:00:00-05:00"
 draft       = false
 aliases     = []
-featureAlt  = ""
+featureAlt  = "A screenshot of Matthew Sanabria's website."
 
 # Taxonomies.
 categories = []

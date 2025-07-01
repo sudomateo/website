@@ -28,10 +28,10 @@ Hooks are triggered by different hook events.
 * `Notification`
 * `Stop`
 
-Each hook event JSON data to your hook that can either be parsed and used or
-ignored entirely. Additionally, Claude Code respects certain exit codes and data
+Each hook event passes JSON data to your hook that can either be parsed and used
+or ignored entirely. Additionally, Claude Code respects certain exit codes and data
 received on standard output or standard error. You can read the documentation
-for all these details though. You're a professional.
+for all those details. You're a professional.
 
 ## Creating a Hook
 
@@ -41,8 +41,8 @@ won't even show screenshots of this process since it's that straightforward. You
 can also ask Claude Code how to make hooks for Claude Code if that's your
 preferred level of inception.
 
-Hooks are just JSON under the hood so you can just create a JSON file in one of
-the following locations with the configuration for your hook.
+Hook configuration is written in JSON. Create a JSON file in one of the following
+locations with the configuration for your hook.
 
 * `.claude/settings.local.json` - Project Settings (local)
 * `.claude/settings.json` - Project Settings
@@ -82,7 +82,7 @@ Hooks receive input from Claude Code and can send output back to Claude Code.
 That means I can write a custom hook that's more dynamic than just running `jj
 commit`.
 
-After about 5-10 minutes of using my human brain here's what I wrote. Take
+After about 5-10 minutes of using my human brain, here's what I wrote. Take
 a moment to use your human brain to read and understand the code. It's quite
 trivial since I was in discovery mode here to see how this all works.
 
@@ -161,10 +161,10 @@ func main() {
 The code parses the expected Claude Code input and uses that input to build a
 commit message. Then it runs `jj commit` with that commit message. Since `jj`
 automatically includes all changed files in the working copy in the commit, I
-get a snapshot of all the file changes in a new commit. Lovely!
+get a snapshot of all the file changes. Lovely!
 
-Here's the updated JSON configuring my hook. The only thing changed was the
-command.
+Here's the updated JSON configuration for my hook. The only thing changed was
+the command.
 
 ```json
 {
@@ -245,9 +245,9 @@ Thanks Graham!
 ## I'm Hooked
 
 I'm excited for Claude Code hooks. It's the missing link in making Claude Code
-more customizable for users. I particularly like the Anthropic kept the project
-(local), project, and user scopes for hooks so that they can be created for
-different needs and even combined to form new functionality.
+more customizable for users. I particularly like that Anthropic kept the
+project (local), project, and user scopes for hooks so that they can be created
+for different needs and even combined to form new functionality.
 
 I'll likely create new hooks over time as I find more use cases that help me in
 my workflow. I look forward to seeing what the community creates as well. Happy

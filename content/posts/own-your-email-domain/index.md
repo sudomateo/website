@@ -118,7 +118,7 @@ plus an annual renewal fee.
 1. Choose an email provider that supports custom email domains (e.g., [Google
 Workspace](https://workspace.google.com/), [Proton Mail](https://proton.me/),
 [iCloud Mail](https://support.apple.com/en-in/102540)) and sign up for their
-service. This usually costs a monthy subscription fee.
+service. This usually costs a monthly subscription fee.
 
 1. Configure the email provider to use your custom email domain. This is usually
 done by going to the DNS provider for your email domain, which is your domain

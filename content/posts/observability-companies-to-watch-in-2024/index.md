@@ -194,7 +194,7 @@ familiar "looks good to me" message teams use in code reviews.
 
 ### Things I Like
 
-Grafana Labs is has an open source tier of their offerings that can be
+Grafana Labs has an open source tier of their offerings that can be
 self-hosted. In fact, I'd argue that's what made Grafana Labs popular in the
 industry. Teams that use Grafana Labs' offerings in production often ship the
 open source versions alongside their applications in non-production
@@ -227,7 +227,7 @@ familiar with a given query language and mostly use a few data sources, but can
 quickly become a burden when context switching between data sources. On top of
 that, Grafana Labs' own offerings use slightly different query languages (e.g.,
 PromQL for Mimir, LogQL for Loki, TraceQL for Tempo) which can burden teams
-with unecessary context switching.
+with unnecessary context switching.
 
 ### Partner or Vendor?
 
@@ -312,7 +312,7 @@ Like most databases, ClickHouse uses SQL as its query language. Teams that are
 familiar with SQL will feel right at home when querying data and companies
 looking to use ClickHouse as their storage layer will have stable APIs to build
 from. I'm not saying that SQL is the _best_ query language, but it's ubiquity
-makes it simple to onboard to ClickHouse.
+makes it simple to use ClickHouse.
 
 ### Things to Improve
 

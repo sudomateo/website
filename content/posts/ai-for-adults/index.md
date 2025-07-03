@@ -214,7 +214,7 @@ productivity. All without feeling pressure to stay in my chair and code. This
 is such a freeing feeling. It allows me to do my best work while living my best
 life.
 
-I have more capacity and energy to things that require my human skills and
+I have more capacity and energy to do things that require my human skills and
 experience. I can write documentation and blog posts for a human audience. I can
 create content that helps people. I can build rapport with customers and users
 to better understand their use cases. I can set the strategy and vision for my

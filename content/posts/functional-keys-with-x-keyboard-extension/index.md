@@ -240,7 +240,7 @@ new XKB option named `sudomateo:function_keys` with the symbols defined from the
 ! include %S/evdev
 
 // Configure custom symbols. This is configured after including the system
-// `evdev` file so the changes aren't overriden by the system configuration.
+// `evdev` file so the changes aren't overridden by the system configuration.
 ! option = symbols
   sudomateo:function_keys = +sudomateo(function_keys)
 ```

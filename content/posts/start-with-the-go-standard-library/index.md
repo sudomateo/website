@@ -552,7 +552,7 @@ INSERT INTO avengers (
     ('Tony Stark', 53);
 ```
 
-Run the `seel.sql` file to create the database table and insert some data into
+Run the `seed.sql` file to create the database table and insert some data into
 it.
 
 ```sh

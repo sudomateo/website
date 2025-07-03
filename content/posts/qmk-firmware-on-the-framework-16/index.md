@@ -2,7 +2,7 @@
 title       = "QMK Firmware on the Framework 16"
 description = "Flash the Framework 16 keyboard using QMK firmware."
 summary     = "Flash the Framework 16 keyboard using QMK firmware."
-keywords    = ["framemwork", "qmk", "keyboard"]
+keywords    = ["framework", "qmk", "keyboard"]
 date        = "2024-10-08T18:00:00-04:00"
 publishDate = "2024-10-08T18:00:00-04:00"
 lastmod     = "2024-10-08T18:00:00-04:00"

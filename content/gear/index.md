@@ -46,7 +46,7 @@ programmable switch.
 
 [Link](https://desk.haus/products/solid-wood)
 
-I wanted real, solid wood as the top for my desk frame. and DeskHaus stocked
+I wanted real, solid wood as the top for my desk frame and DeskHaus stocked
 solid wood tops so I bought one with my desk. Much like the frame, it's also
 heavy and the finish is great. I have a 30"x72" Walnut top and I love it.
 If I could do it again I probably would have just bought a top from a local
@@ -158,7 +158,7 @@ this mouse and it works for my needs.
 
 This laptop stand is cool because it collapses nicely for travel but it's _way_
 too expensive for what it is. It also doesn't adjust to a low enough height for
-for my liking. It does keep my laptop raised though which is nice for cooling,
+for my liking. It does keep my laptop raised, though, which is nice for cooling,
 saving desk space, and aligning the laptop monitor with another monitor.
 However, I wouldn't buy this again unless the price dropped by 50%.
 

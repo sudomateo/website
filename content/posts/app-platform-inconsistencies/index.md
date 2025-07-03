@@ -51,9 +51,9 @@ which runs on DigitalOcean App Platform. The overall experience was okay, but I
 wrote that off since DigitalOcean Functions was a relatively new product at the
 time.
 
-At this point I was running a few projects in DigitalOcean and only one project
-in Netlify. Being the minimalist that I am, it was the perfect time to
-consolidate my infrastructure into DigitalOcean and delete my Netlify account. I
+At this point I was running a few projects in DigitalOcean and only one
+project in Netlify. Being the minimalist that I am, it was the perfect time to
+consolidate my infrastructure in DigitalOcean and delete my Netlify account. I
 really don't like having accounts for services that I'm not using.
 
 I wanted to take a moment to say that Netlify is a great platform. It has served

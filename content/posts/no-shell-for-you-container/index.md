@@ -52,7 +52,7 @@ application container using distroless as the base image.
 The example application will be an HTTP server written in [Go](https://go.dev)
 that responds to any HTTP request with `Hello, World!`.
 
-Go ahead an initialize a new Go module.
+Go ahead and initialize a new Go module.
 
 ```sh
 go mod init helloworld

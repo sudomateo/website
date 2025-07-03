@@ -81,7 +81,7 @@ emulator.
 [self-proclaimed][6] benevolent dictator for life for now (BDFLFN) and has set
 a clear vision for Ghostty. Contributions and discussions are welcome and the
 Ghostty Discord community is active. It's refreshing to see a healthy community
-with someone at the helm who welcomes community feeback, especially after reading
+with someone at the helm who welcomes community feedback, especially after reading
 how another maintainer responded in [alacritty/alacritty#3926][7].
 
 ## Fish
@@ -129,7 +129,7 @@ For example, deleting 2 words in Neovim is `2dw` while in Helix it's `v2wd`.
 
 I switched to Helix a few weeks before writing this post so I'm still
 familiarizing myself with it. I'll give myself another month or so before
-decidiing if I'll stay or switch back to Neovim. Here's what I'm liking so far.
+deciding if I'll stay or switch back to Neovim. Here's what I'm liking so far.
 
 - Common configuration is built in. Helix doesn't require plugins for LSP
 configuration, tree-sitter, or fuzzy finding. All of that is built into

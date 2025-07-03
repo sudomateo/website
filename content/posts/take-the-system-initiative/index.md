@@ -18,7 +18,7 @@ tags       = []
 Infrastructure as code is dead. Don't believe me? Read on.
 
 Odds are you're familiar with infrastructure as code tools like Terraform,
-OpenTofu, and Pulumi. Maybe you like these these tools and use them regularly.
+OpenTofu, and Pulumi. Maybe you like these tools and use them regularly.
 Maybe you have a love-hate relationship with them. Regardless, you feel _some_
 way about these tools. Have you ever stopped to wonder if there's something
 better?
@@ -55,7 +55,7 @@ Sounds toilsome, doesn't it?
 
 In my opinion, much of the infrastructure as code pain comes from the fact that
 the incumbent tools tightly couple themselves to a version control system. That
-is, all of the toil that of version control systems is inherent in the design
+is, all of the toil of version control systems is inherent in the design
 of infrastructure as code. It's time to think about this differently. It's time
 to rebuild DevOps. Thankfully, one company is doing just that- and that company
 is [System Initiative][system-initiative].
@@ -462,7 +462,7 @@ I hope you can see just how powerful a tool like System Initiative can be in
 the hands of an engineer. Perhaps you're already thinking of assets that you'd
 write to integrate with the tools you use.
 
-If you're ready to take the System Initiative, go ahead and sign up sign up on
+If you're ready to take the System Initiative, go ahead and sign up on
 their [website][system-initiative]. There's even a [Discord
 server][system-initiative-discord] if you'd like to be part of the community.
 If that's too much commitment but you still want to support System Initiative

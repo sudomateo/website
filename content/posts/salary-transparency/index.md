@@ -22,7 +22,7 @@ compensation without being stigmatized.
 
 ## Thoughts on Salary Transparency
 
-Here are some of my thoughts related to salary tranparency that I've built up
+Here are some of my thoughts related to salary transparency that I've built up
 over the years, especially after working for a company that [publicly posts its
 compensation information][2]. I hope these thoughts will speak to you and help
 you in your journey.
@@ -48,10 +48,10 @@ to change.
 - It's okay to encourage yourself and others to discuss salary transparency,
 especially if you have the privilege to do so. I've spoken up about salary
 transparency at past employers. I've even managed a Slack channel named
-`#talk-pay` where employees could anononymously post their compensation
+`#talk-pay` where employees could anonymously post their compensation
 information. I caught flack for that. I received direct messages from managers
 and directors asking me to stop. Did I stop? No. Do I regret that? Not one bit.
-Especially not after the countles direct messages from employees thanking me
+Especially not after the countless direct messages from employees thanking me
 for speaking up about salary transparency and recounting how it's helped them in
 their career.
 - I'm not embarrassed about anything listed here. I'm sure I could be getting

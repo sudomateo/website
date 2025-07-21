@@ -1,8 +1,3 @@
-# [[main]]
-#   name = "About"
-#   pageRef = "about"
-#   weight = 10
-
 [[main]]
   name = "Blog"
   pageRef = "posts"
@@ -13,15 +8,10 @@
   pageRef = "gear"
   weight = 20
 
-# [[main]]
-#   name = "Categories"
-#   pageRef = "categories"
-#   weight = 30
-
-# [[main]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 40
+[[main]]
+  name = "Salary"
+  pageRef = "salary"
+  weight = 20
 
 [[main]]
   identifier = "rss"

@@ -1,7 +1,7 @@
 +++
 title       = "You Had No Taste Before AI"
-description = "The uncomfortable truth about people preaching AI taste."
-summary     = "The uncomfortable truth about people preaching AI taste."
+description = "The bitter truth about people preaching taste with AI."
+summary     = "The bitter truth about people preaching taste with AI."
 keywords    = ["ai"]
 date        = "2025-07-26T12:00:00-05:00"
 publishDate = "2025-07-26T12:00:00-05:00"

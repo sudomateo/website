@@ -79,6 +79,8 @@ Green color in the Medium Plus.
 
 [Link](https://pcpartpicker.com/b/x7Y9TW)
 
+I'm selling this workstation. Contact me if you're interested.
+
 The complete parts list is in the above link but it's an AMD Ryzen 9 9950X3D,
 256 GiB of memory, an AMD 9070 XT, and a 4 TiB NVMe. I use this workstation
 for everything- programming, gaming, rendering, AI workloads, streaming,
@@ -91,10 +93,13 @@ capture card for recording and streaming.
 
 [Link](https://frame.work/products/laptop16-diy-amd-7040)
 
-I have two of these laptops, one for personal use and one for work. Both
-run Arch Linux and are maxed out with the exception that the work model
-has 96 GiB of memory and the GPU module while the personal model has 64
-GiB of memory and no GPU module. This laptop feels very much like a v1
+I'm selling one of my Framework 16 laptops. Details
+[here](https://community.frame.work/t/us-nj-framework-16-amd-ryzen-9-7940hs-96-gib-ram-2-tb-sn850x-nvme/73092).
+
+I have two of these laptops, one for personal use and one for work.
+Both run Arch Linux and are maxed out with the exception that the
+work model has 96 GiB of memory while the personal model has 64 GiB
+of memory and the GPU module. This laptop feels very much like a v1
 product in both a good and bad way which I described in [this post on
 X](https://x.com/sudomateo/status/1886843887727136913). I'm happy with
 my purchase and enjoy supporting a company that's focused on repairable,

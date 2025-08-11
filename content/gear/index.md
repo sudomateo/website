@@ -79,8 +79,6 @@ Green color in the Medium Plus.
 
 [Link](https://pcpartpicker.com/b/x7Y9TW)
 
-I'm selling this workstation. Contact me if you're interested.
-
 The complete parts list is in the above link but it's an AMD Ryzen 9 9950X3D,
 256 GiB of memory, an AMD 9070 XT, and a 4 TiB NVMe. I use this workstation
 for everything- programming, gaming, rendering, AI workloads, streaming,
@@ -92,9 +90,6 @@ capture card for recording and streaming.
 ### Framework Laptop 16
 
 [Link](https://frame.work/products/laptop16-diy-amd-7040)
-
-I'm selling one of my Framework 16 laptops. Details
-[here](https://community.frame.work/t/us-nj-framework-16-amd-ryzen-9-7940hs-96-gib-ram-2-tb-sn850x-nvme/73092).
 
 I have two of these laptops, one for personal use and one for work.
 Both run Arch Linux and are maxed out with the exception that the

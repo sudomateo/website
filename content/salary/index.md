@@ -78,18 +78,19 @@ that makes it difficult to present here.
 
 I'll do my best to keep this table updated.
 
-| Title                           | Start Date | End Date | Annual Salary (USD) | Leave Reason                         |
-| ------------------------------- | ---------- | -------- | ------------------- | ------------------------------------ |
-| Solutions Software Engineer     | 2024-11    | N/A      | $207,264            | N/A                                  |
-| Staff Site Reliability Engineer | 2023-10    | 2024-11  | $225,000            | Quit. Went to startup.               |
-| Senior Software Engineer        | 2022-05    | 2023-10  | $182,000            | Quit. Wanted a change.               |
-| Software Engineer               | 2020-06    | 2022-05  | $165,000            | Promoted.                            |
-| Senior Support Engineer         | 2019-01    | 2020-06  | $135,000            | Promoted. Cost of living adjustment. |
-| Site Reliability Engineer       | 2018-01    | 2018-12  | $120,000            | Quit. Took remote job.               |
-| Site Reliability Engineer       | 2017-03    | 2018-01  | $105,000            | Mass layoffs.                        |
-| System Engineer                 | 2015-12    | 2017-03  | $85,000             | Quit. Moved out of state.            |
-| System Engineer                 | 2015-01    | 2015-11  | $70,000             | Mass layoffs.                        |
-| IT Support Specialist           | 2012-06    | 2014-12  | $60,000             | Quit. Went to startup.               | 
+| Title                           | Company                | Start Date | End Date | Annual Salary (USD) | Leave Reason               |
+| ------------------------------- | ---------------------- | ---------- | -------- | ------------------- | -------------------------- |
+| Solutions Software Engineer     | Oxide Computer Company | 2025-09    | N/A      | $235,000            | N/A                        |
+| Solutions Software Engineer     | Oxide Computer Company | 2024-11    | 2025-09  | $207,264            | Raise.                     |
+| Staff Site Reliability Engineer | Cockroach Labs         | 2023-10    | 2024-11  | $225,000            | Quit. Went to startup.     |
+| Senior Software Engineer        | HashiCorp              | 2022-05    | 2023-10  | $182,000            | Quit. Wanted a change.     |
+| Software Engineer               | HashiCorp              | 2020-06    | 2022-05  | $165,000            | Promoted.                  |
+| Senior Support Engineer         | HashiCorp              | 2019-01    | 2020-06  | $135,000            | Transferred to new team.   |
+| Site Reliability Engineer       | Chewy                  | 2018-01    | 2018-12  | $120,000            | Quit. Took remote job.     |
+| Site Reliability Engineer       | Bidtellect             | 2017-03    | 2018-01  | $105,000            | Mass layoffs.              |
+| System Engineer                 | Yext                   | 2015-12    | 2017-03  | $85,000             | Quit. Moved out of state.  |
+| System Engineer                 | Wicker                 | 2015-01    | 2015-11  | $70,000             | Mass layoffs.              |
+| IT Support Specialist           | Prudential             | 2012-06    | 2014-12  | $60,000             | Quit. Went to startup.     | 
 
 [1]: https://xeiaso.net/salary-transparency/ "Salary Transparency | Xe Iaso"
 [2]: https://oxide.computer/blog/compensation-as-a-reflection-of-values "Compensation as a Reflection of Values"

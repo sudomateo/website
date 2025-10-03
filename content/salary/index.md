@@ -89,7 +89,7 @@ I'll do my best to keep this table updated.
 | Site Reliability Engineer       | Chewy                  | 2018-01    | 2018-12  | $120,000            | Quit. Took remote job.     |
 | Site Reliability Engineer       | Bidtellect             | 2017-03    | 2018-01  | $105,000            | Mass layoffs.              |
 | System Engineer                 | Yext                   | 2015-12    | 2017-03  | $85,000             | Quit. Moved out of state.  |
-| System Engineer                 | Wicker                 | 2015-01    | 2015-11  | $70,000             | Mass layoffs.              |
+| System Engineer                 | Wickr                  | 2015-01    | 2015-11  | $70,000             | Mass layoffs.              |
 | IT Support Specialist           | Prudential             | 2012-06    | 2014-12  | $60,000             | Quit. Went to startup.     | 
 
 [1]: https://xeiaso.net/salary-transparency/ "Salary Transparency | Xe Iaso"

@@ -68,10 +68,10 @@ fabric.
 [Link](https://grovemade.com/product/matte-desk-pad)
 
 I had a SteelSeries desk pad previously but its rubber bottom didn't let my
-wooden desk breathe and would dull the finish after extended use. I figured the
-cork bottom on this Grovemade desk pad would let my wooden desk breathe much
-better and I always wanted to try a Grovemade product. I purchased the Dark
-Green color in the Medium Plus.
+wooden desk breathe and would dull the finish after extended use. The cork
+bottom on this Grovemade desk pad lets my wooden desk breathe much better and
+I always wanted to try a Grovemade product. I purchased the Dark Green color in
+the Medium Plus.
 
 ## Computer
 
@@ -79,26 +79,34 @@ Green color in the Medium Plus.
 
 [Link](https://pcpartpicker.com/b/x7Y9TW)
 
-The complete parts list is in the above link but it's an AMD Ryzen 9 9950X3D,
-256 GiB of memory, an AMD 9070 XT, and a 4 TiB NVMe. I use this workstation
-for everything- programming, gaming, rendering, AI workloads, streaming,
-recording, and anything else that comes up. It runs Windows for compatibility
-with peripherals and software but most of the programming work happens either
-in WSL2, by SSHing somewhere else, or via some computer that's connected to a
-capture card for recording and streaming.
+This is my personal workstation. The complete parts list is in the above link
+but it's an AMD Ryzen 9 9950X3D, 256 GiB of memory, an AMD 9070 XT, and a 4 TiB
+NVMe. I use this for everything from programming to content creation. It runs
+Arch Linux because it's the year of Linux on the desktop and everything I do
+finally works on Linux. Additionally, Windows has frustrated me to the point
+I'll likely never go back to it and Apple's pricing is... Apple.
+
+### Framework Desktop
+
+[Link](https://frame.work/products/desktop-diy-amd-aimax300)
+
+This is my work machine. It's the 128 GiB model and it packs a serious
+punch compared to the Framework Laptop 16. It runs Arch Linux and quite
+frankly has enough power to rival my custom workstation. There's some [PSU
+noise](https://community.frame.work/t/noisy-psu-fan/74751) that's annoying
+myself and others but hopefully Framework will correct that. I have a support
+ticket in for it.
 
 ### Framework Laptop 16
 
 [Link](https://frame.work/products/laptop16-diy-amd-7040)
 
-I have two of these laptops, one for personal use and one for work.
-Both run Arch Linux and are maxed out with the exception that the
-work model has 96 GiB of memory while the personal model has 64 GiB
-of memory and the GPU module. This laptop feels very much like a v1
-product in both a good and bad way which I described in [this post on
-X](https://x.com/sudomateo/status/1886843887727136913). I'm happy with
-my purchase and enjoy supporting a company that's focused on repairable,
-sustainable computers.
+This is my work travel machine. I used to use this as my only work machine
+but I wanted more power for compiling code and video editing so I relinquished
+this to travel duty. Looking back I probably should have gotten a Framework
+Laptop 13 instead for travel. I published a [review of the Framework Laptop
+16](https://youtu.be/1-WUGfn6wW0) on YouTube if you're curious what my thoughts
+are on it.
 
 ## Computer Peripherals
 
@@ -115,13 +123,12 @@ Thunderbolt 4 connectivity, really USB4 in my case. It's lower pixels per inch
 has a built-in KVM switch which allowed me to get rid of my dock and USB switch.
 
 This monitor uses multi-stream transport (MST) to split the monitor into
-sections for one computer to treat as two monitors or two computers to treat
-as one monitor. I use its 50%/50% mode with one computer if I want to act like
-I have two monitors (e.g., for screen sharing one monitor and not the other)
-and I use its 25%/75% mode with two computers where the streaming computer
-uses the 25% and the computer being recorded uses the 75% which is a perfect 4K
-resolution. If I'm not doing either of those things I'll just use its 100% mode
-as a single monitor.
+sections for one computer to treat as two monitors or two computers to treat as
+one monitor. I use its 50%/50% mode with one computer if I want to act like I
+have two monitors (e.g., for screen sharing one monitor and not the other) and I
+use its 50%/50% mode with two computers where one computer uses one half and the
+other computer uses the other half. If I'm not doing either of those things I'll
+just use its 100% mode as a single monitor.
 
 ### ZSA Moonlander
 
@@ -133,34 +140,28 @@ My keyboard journey has been long.
 * Drop CTRL
 * Drop Preonic
 * ZSA Moonlander
+* Kinesis Advantage360 SmartSet (Customized by Upgrade Keyboards)
 
 I loved my Preonic but typing on it kept my shoulders and chest closed which
 wasn't great for posture and health. Ultimately I decided to bite the bullet and
 try a split keyboard. At the time the Moonlander just released so it was a good
 time to give it a go. I also really liked ZSA's stance on sustainability which
-they discussed more on [Changelog Interviews #608](https://changelog.fm/608). If
-I had to buy a split keyboard again today it would be a tough decision between
-the ZSA Moonlander and the Kinesis Advantage360 Pro. I have the Dark Matter
-color with blank keycaps and lubed TTC Silent Bluish White V2 switches.
+they discussed more on [Changelog Interviews #608](https://changelog.fm/608).
+Unfortunately I don't have long fingers so I found the concave design of the
+Kinesis Advantage360 to be more comfortable for me so I ordered a custom one
+from Upgrade Keyboards. I love this thing. I would skip all the other keyboards
+I've tried and go directly to a concave, split layout if I started again. I have
+a grey model with blank keycaps and lubed TTC Silent Bluish White V2 switches.
 
-### Logitech G502 X
+### Logitech MX Master 3S
 
-[Link](https://www.logitechg.com/en-us/products/gaming-mice/g502-x-wired-lightforce.910-006136.html)
+[Link](https://www.logitech.com/en-us/shop/p/mx-master-3s)
 
-Pour one out for the legendary Logitech G9x. The Logitech G502 X mouse is the
-closest I've come to my beloved Logitech G9x. People say to use the Logitech MX
-Master but I tried that and it wasn't great for me. I have the wired version of
-this mouse and it works for my needs.
-
-### Roost V3 Laptop Stand
-
-[Link](https://www.therooststand.com/collections/roost-laptop-stand/products/roost-v3-roost-laptop-stand)
-
-This laptop stand is cool because it collapses nicely for travel but it's _way_
-too expensive for what it is. It also doesn't adjust to a low enough height for
-for my liking. It does keep my laptop raised, though, which is nice for cooling,
-saving desk space, and aligning the laptop monitor with another monitor.
-However, I wouldn't buy this again unless the price dropped by 50%.
+Pour one out for the legendary Logitech G9x. I haven't found a mouse that I
+loved as much as the Logitech G9x. I had a Logitech G502 X but it had too much
+of a gamer look with crevices that just filled with grime. I switched to the MX
+Master 3S on people's recommendations but I'm not sold on it. I'm still in the
+market for a mouse.
 
 ## Writing
 
@@ -171,8 +172,16 @@ However, I wouldn't buy this again unless the price dropped by 50%.
 Even though I work with computers I prefer physical writing to digital writing.
 Fountain pens are fun to write with and helped reignite my joy for writing.
 These LAMY safari pens are inexpensive and a popular choice for fountain pens
-users. I have a Yellow pen with a Fine nib filled with a warm-toned ink and an
-Umbra pen Fine nib filled with black ink.
+users. I have a Yellow pen with a Fine nib filled with Ancient Copper ink and an
+Umbra pen Fine nib filled with green ink.
+
+### Platinum Plaisir Fountain Pen
+
+[Link](https://www.jetpens.com/Platinum-Plaisir-Fountain-Pens/ct/1054)
+
+Everything I love about fountain pens with a better seal than the LAMY to
+prevent drying when not in use. I have a Red pen with a Fine nib filled with
+Carbon Black ink.
 
 ### LEUCHTTURM1917 Notebook
 
@@ -205,11 +214,11 @@ to drive this microphone before swapping those out for the Rode Rodecaster Duo.
 
 I replaced the Cloudlifter CL-1, Focusrite Scarlett 2i2 (3rd Gen), and Schiit
 Vali 2 with this Rodecaster Duo and I should have just bit the bullet up front
-and got this device way sooner. I have USB 1 plugged into my Windows workstation
-so that it gets access to 2 inputs and 2 outputs for separating general audio
-from background audio like Discord chat or music. Then I have USB 2 plugged
-into my Linux workstation to get 1 input and 1 output. This allows me to share
-my microphone and headphones with both computers without ever having to switch
+and got this device way sooner. I have USB 1 plugged into one workstation so
+that it gets access to 2 inputs and 2 outputs for separating general audio from
+background audio like Discord chat or music. Then I have USB 2 plugged into
+my other workstation to get 1 input and 1 output. This allows me to share my
+microphone and headphones with both computers without ever having to switch
 cables or connections. Love this thing!
 
 ### Beyerdynamic DT 990 Pro
@@ -245,23 +254,21 @@ purchase.
 
 [Link](https://www.blackmagicdesign.com/products/decklink)
 
-I bought this capture card to connect my Linux workstation to my Windows
-workstation. I had an Elgato card before this but Elgato doesn't support Linux
-so I gave that card away for free. This card supports Linux at a lower price
-point than Magewell cards and I've used Blackmagic Design's DaVinci Resolve
-video editor before so I was familiar with the brand. Even though I use this
-card in Windows I like having the ability to change OS and have hardware remain
-compatible.
+I bought this capture card to use in my custom workstation. I had an Elgato card
+before this but Elgato doesn't support Linux so I gave that card away for free.
+This card supports Linux at a lower price point than Magewell cards and I've
+used Blackmagic Design's DaVinci Resolve video editor before so I was familiar
+with the brand.
 
 ### Blackmagic Design UltraStudio Recorder 3G
 
 [Link](https://www.blackmagicdesign.com/products/ultrastudio)
 
 I bought this capture card to connect my camera to whatever machine needs it,
-even when traveling. It connects using Thunderbolt 3 to provide data and power.
-This card supports Linux at a lower price point than Magewell cards and I've
-used Blackmagic Design's DaVinci Resolve video editor before so I was familiar
-with the brand.
+even when traveling. It connects using Thunderbolt 3, really USB4 in my case,
+to provide data and power. This card supports Linux at a lower price point than
+Magewell cards and I've used Blackmagic Design's DaVinci Resolve video editor
+before so I was familiar with the brand.
 
 ## Lighting
 

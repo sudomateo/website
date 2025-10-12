@@ -94,7 +94,7 @@ This is my work machine. It's the 128 GiB model and it packs a serious
 punch compared to the Framework Laptop 16. It runs Arch Linux and quite
 frankly has enough power to rival my custom workstation. There's some [PSU
 noise](https://community.frame.work/t/noisy-psu-fan/74751) that's annoying
-myself and others but hopefully Framework will correct that. I have a support
+to myself and others but hopefully Framework will correct that. I have a support
 ticket in for it.
 
 ### Framework Laptop 16
@@ -130,9 +130,9 @@ use its 50%/50% mode with two computers where one computer uses one half and the
 other computer uses the other half. If I'm not doing either of those things I'll
 just use its 100% mode as a single monitor.
 
-### ZSA Moonlander
+### Kinesis Advantage360
 
-[Link](https://www.zsa.io/moonlander)
+[Link](https://kinesis-ergo.com/shop/adv360)
 
 My keyboard journey has been long.
 

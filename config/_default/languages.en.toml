@@ -11,18 +11,18 @@ title = "Matthew Sanabria"
 
   # TODO: sudomateo
   # mainSections = ["section1", "section2"]
-  description = "Matthew Sanabria's website."
+  description = "Matthew Sanabria's personal website."
 
 [params.author]
   name     = "Matthew Sanabria"
   image    = "matthew-sanabria.jpg"
-  headline = "Software Engineer"
+  headline = "Engineering Leader"
   bio      = """\
-    Matthew is an engineering leader known for using his breadth and depth
-    of experience to add value in minimal context situations. In his spare
-    time, Matthew spends time with his family, helps grow his wife's chocolate
-    business, works on home improvement projects, and reads technical resources
-    to learn and tinker.
+    Matthew is an engineering leader who drives impact through deep technical
+    expertise and strategic thinking. He is known for quickly understanding complex
+    systems and delivering results in ambiguous situations. Outside of work, he
+    spends time with his family, helps grow his wife's chocolate business, tackles
+    home improvement projects, and continuously expands his technical knowledge.
     """
   # Table keys are icon names from `assets/icons` in the theme.
   links = [

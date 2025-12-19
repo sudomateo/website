@@ -1,9 +1,9 @@
-ARG GO_VERSION=1.24.5
+ARG GO_VERSION=1.25.5
 
 FROM docker.io/golang:${GO_VERSION} AS builder
 
 ARG TARGETARCH
-ARG HUGO_VERSION=0.147.9
+ARG HUGO_VERSION=0.153.0
 
 # Install curl.
 RUN apt-get update && \

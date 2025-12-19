@@ -11,7 +11,10 @@ title = "Matthew Sanabria"
 
   # TODO: sudomateo
   # mainSections = ["section1", "section2"]
-  description = "Matthew Sanabria's personal website."
+  description = """\
+    Insights on engineering leadership, software development, and \
+    navigating complex technical challenges from Matthew Sanabria.
+    """
 
 [params.author]
   name     = "Matthew Sanabria"

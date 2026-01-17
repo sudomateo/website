@@ -81,7 +81,7 @@ I'll do my best to keep this table updated.
 | Title                           | Company                | Start Date | End Date | Annual Salary (USD) | Leave Reason               |
 | ------------------------------- | ---------------------- | ---------- | -------- | ------------------- | -------------------------- |
 | Solutions Software Engineer     | Oxide Computer Company | 2026-01    | N/A      | $250,000            | N/A                        |
-| Solutions Software Engineer     | Oxide Computer Company | 2025-09    | N/A      | $235,000            | Raise.                     |
+| Solutions Software Engineer     | Oxide Computer Company | 2025-09    | 2026-01  | $235,000            | Raise.                     |
 | Solutions Software Engineer     | Oxide Computer Company | 2024-11    | 2025-09  | $207,264            | Raise.                     |
 | Staff Site Reliability Engineer | Cockroach Labs         | 2023-10    | 2024-11  | $225,000            | Quit. Went to startup.     |
 | Senior Software Engineer        | HashiCorp              | 2022-05    | 2023-10  | $182,000            | Quit. Wanted a change.     |

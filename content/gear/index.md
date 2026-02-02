@@ -15,11 +15,11 @@ categories = []
 tags       = []
 +++
 
-I often get asked about the gear I use or what's on my desk. This page lists
-the gear I use both personally and professionally along with some thoughts about
-the gear to provide context. I've built up this collection over time and I'll
-do my best to keep this page up to date as things change. Generally, I have the
-following principles when buying gear.
+I often get asked about the gear I use or what's on my desk. This page lists the
+gear I use both personally and professionally along with some thoughts about the
+gear to provide context. I've built up this collection over time and I'll do my
+best to keep this page updated as things change. Generally, I have the following
+principles when buying gear.
 
 * Understand compatibility with existing gear.
 * Prefer wired gear over wireless gear.
@@ -38,7 +38,7 @@ extensively researched DeskHaus and ultimately decided to go with their
 standing desk frame based on Reddit reviews and the [DeskHaus YouTube
 channel](https://www.youtube.com/@Deskhaus). This is the best desk frame I've
 ever used in my life, **period**. UPLIFT, Fully, and Autonomous desks aren't
-even in the same league as DeskHaus. It's heavy and _extremely_ stable even when
+even in the same league as DeskHaus. It's heavy and _extremely_ stable when
 raised to its maximum height. I have the 30" legs, extended range height, and
 programmable switch.
 
@@ -68,45 +68,39 @@ fabric.
 [Link](https://grovemade.com/product/matte-desk-pad)
 
 I had a SteelSeries desk pad previously but its rubber bottom didn't let my
-wooden desk breathe and would dull the finish after extended use. The cork
-bottom on this Grovemade desk pad lets my wooden desk breathe much better and
-I always wanted to try a Grovemade product. I purchased the Dark Green color in
-the Medium Plus.
+wooden desk breathe. The cork bottom on this Grovemade desk pad lets my wooden
+desk breathe much better and I always wanted to try a Grovemade product. I
+purchased the Dark Green color in the Medium Plus.
 
 ## Computer
-
-### Custom Workstation
-
-[Link](https://pcpartpicker.com/b/x7Y9TW)
-
-This is my personal workstation. The complete parts list is in the above link
-but it's an AMD Ryzen 9 9950X3D, 256 GiB of memory, an AMD 9070 XT, and a 4 TiB
-NVMe. I use this for everything from programming to content creation. It runs
-Arch Linux because it's the year of Linux on the desktop and everything I do
-finally works on Linux. Additionally, Windows has frustrated me to the point
-I'll likely never go back to it and Apple's pricing is... Apple.
 
 ### Framework Desktop
 
 [Link](https://frame.work/products/desktop-diy-amd-aimax300)
 
-This is my work machine. It's the 128 GiB model and it packs a serious
-punch compared to the Framework Laptop 16. It runs Arch Linux and quite
-frankly has enough power to rival my custom workstation. There's some [PSU
-noise](https://community.frame.work/t/noisy-psu-fan/74751) that's annoying
-to myself and others but hopefully Framework will correct that. I have a support
-ticket in for it.
+This is my workstation for both personal and professional workloads. It's
+the 128 GiB model, runs Arch Linux, and packs enough power to rival my custom
+workstation. There's some [PSU noise](https://community.frame.work/t/noisy-psu-fan/74751)
+that's annoying to myself and others but hopefully Framework will correct that.
+I have a support ticket in for it.
+
+### Custom Workstation
+
+[Link](https://pcpartpicker.com/b/x7Y9TW)
+
+This used to be my personal workstation but it now runs Oxide Helios for local
+development. The complete parts list is in the above link but it's an AMD Ryzen
+9 9950X3D, 256 GiB of memory, an AMD 9070 XT, and a 4 TiB NVMe.
 
 ### Framework Laptop 16
 
 [Link](https://frame.work/products/laptop16-diy-amd-7040)
 
-This is my work travel machine. I used to use this as my only work machine
-but I wanted more power for compiling code and video editing so I relinquished
-this to travel duty. Looking back I probably should have gotten a Framework
-Laptop 13 instead for travel. I published a [review of the Framework Laptop
-16](https://youtu.be/1-WUGfn6wW0) on YouTube if you're curious what my thoughts
-are on it.
+This is my travel machine. I used to use it as my workstation but I wanted
+more power for compiling code and video editing so I relinquished this
+to travel duty. Looking back I probably should have gotten a Framework
+Laptop 13 for the size. I published a [review of the Framework Laptop 16](https://youtu.be/1-WUGfn6wW0)
+on YouTube if you're curious what my thoughts are on it.
 
 ## Computer Peripherals
 
@@ -119,16 +113,11 @@ with a quick stint using an LG 27UD68P-B. Initially, I was planning on buying
 either a 27" 5K or a 32" 6K monitor but there weren't any that had above a 60Hz
 refresh rate. I ended up buying this monitor since it's 5K at 120Hz and supports
 Thunderbolt 4 connectivity, really USB4 in my case. It's lower pixels per inch
-(PPI) than I wanted but the text is still lovely at 200% scale. I love that it
-has a built-in KVM switch which allowed me to get rid of my dock and USB switch.
-
-This monitor uses multi-stream transport (MST) to split the monitor into
+(PPI) than I wanted but the text is still lovely at 200% scale. I love that
+it has a built-in KVM switch which allowed me to get rid of my dock and USB
+switch. This monitor uses multi-stream transport (MST) to split the monitor into
 sections for one computer to treat as two monitors or two computers to treat as
-one monitor. I use its 50%/50% mode with one computer if I want to act like I
-have two monitors (e.g., for screen sharing one monitor and not the other) and I
-use its 50%/50% mode with two computers where one computer uses one half and the
-other computer uses the other half. If I'm not doing either of those things I'll
-just use its 100% mode as a single monitor.
+one monitor.
 
 ### Kinesis Advantage360
 
@@ -147,11 +136,11 @@ wasn't great for posture and health. Ultimately I decided to bite the bullet and
 try a split keyboard. At the time the Moonlander just released so it was a good
 time to give it a go. I also really liked ZSA's stance on sustainability which
 they discussed more on [Changelog Interviews #608](https://changelog.fm/608).
-Unfortunately I don't have long fingers so I found the concave design of the
-Kinesis Advantage360 to be more comfortable for me so I ordered a custom one
-from Upgrade Keyboards. I love this thing. I would skip all the other keyboards
-I've tried and go directly to a concave, split layout if I started again. I have
-a grey model with blank keycaps and lubed TTC Silent Bluish White V2 switches.
+I don't have long fingers so I found the concave design of the Kinesis
+Advantage360 to be more comfortable. I ended up ordering a custom one from
+Upgrade Keyboards. I love this thing. I would skip all the other keyboards I've
+tried and go directly to a concave, split layout if I started again. I have a
+grey model with blank keycaps and lubed TTC Silent Bluish White V2 switches.
 
 ### Logitech MX Master 3S
 
@@ -173,7 +162,7 @@ Even though I work with computers I prefer physical writing to digital writing.
 Fountain pens are fun to write with and helped reignite my joy for writing.
 These LAMY safari pens are inexpensive and a popular choice for fountain pens
 users. I have a Yellow pen with a Fine nib filled with Ancient Copper ink and an
-Umbra pen Fine nib filled with green ink.
+Umbra pen Fine nib filled with Sherwood Green.
 
 ### Platinum Plaisir Fountain Pen
 
@@ -205,8 +194,9 @@ I had a Blue Yeti previously and I didn't care for its mini USB connection
 and audio quality so I upgraded to the Shure SM7B. Honestly I didn't do much
 research here I just went with the microphone that was most popular with content
 creators on Twitch and YouTube. Perhaps I should have done more research here
-since I ended up buying a Cloudlifter CL-1 and Focusrite Scarlett 2i2 (3rd Gen)
-to drive this microphone before swapping those out for the Rode Rodecaster Duo.
+since I ended up buying a Cloudlifter CL-1 and Focusrite Scarlett 2i2 (3rd
+Gen) to drive this microphone before swapping both of those out for the Rode
+Rodecaster Duo.
 
 ### Rode Rodecaster Duo
 
@@ -214,12 +204,7 @@ to drive this microphone before swapping those out for the Rode Rodecaster Duo.
 
 I replaced the Cloudlifter CL-1, Focusrite Scarlett 2i2 (3rd Gen), and Schiit
 Vali 2 with this Rodecaster Duo and I should have just bit the bullet up front
-and got this device way sooner. I have USB 1 plugged into one workstation so
-that it gets access to 2 inputs and 2 outputs for separating general audio from
-background audio like Discord chat or music. Then I have USB 2 plugged into
-my other workstation to get 1 input and 1 output. This allows me to share my
-microphone and headphones with both computers without ever having to switch
-cables or connections. Love this thing!
+and got this device way sooner. Love this thing!
 
 ### Beyerdynamic DT 990 Pro
 
@@ -239,26 +224,25 @@ years I've had them. I have the 250 Ohms model.
 
 [Link](https://shop.panasonic.com/products/s5m2x-full-frame-mirrorless-camera-body)
 
-This is the first professional camera I've ever purchased. I use it as a webcam
-for meetings, streaming, creating videos, and as a camera to take product
-pictures for my wife's chocolate business,
-[Lily & Sparrow](https://lilyandsparrow.net). I like this camera because it has
-a fan to keep it cool when recording for a long time and the Panasonic family
-of lenses are pretty great. I use the
+This is the first professional camera I've ever purchased. I use it
+as a webcam for meetings, streaming, creating videos, and as a camera
+to take product pictures for my wife's chocolate business, [Lily & Sparrow](https://lilyandsparrow.net).
+I like this camera because it has a fan to keep it cool when recording for a
+long time and the Panasonic family of lenses are pretty great. I use the
 [S Series 20-60mm F3.5-5.6 L-Mount Lens](https://shop.panasonic.com/products/s-series-20-60mm-f3-5-5-6-asph-lens).
 I was also pretty frustrated with the color on USB webcams and wanted to
 fix that. I'm not a photographer by any means but I'm quite happy with this
 purchase.
 
-### Blackmagic Design DeckLink Mini Recorder 4K
+### Magewell USB Capture HDMI 4K Pro
 
-[Link](https://www.blackmagicdesign.com/products/decklink)
+[Link](https://www.magewell.com/products/usb-capture-hdmi-4k-pro)
 
-I bought this capture card to use in my custom workstation. I had an Elgato card
-before this but Elgato doesn't support Linux so I gave that card away for free.
-This card supports Linux at a lower price point than Magewell cards and I've
-used Blackmagic Design's DaVinci Resolve video editor before so I was familiar
-with the brand.
+I bought this capture card since I got tired of getting the Blackmagic capture
+cards working on Linux. They were pretty stable but every now and then the
+kernel module would give me issues or the video would have artifacts and need to
+be disconnected and reconnected. This card is quite expensive but it was worth it
+since I no longer have issues! It just works!
 
 ### Blackmagic Design UltraStudio Recorder 3G
 
@@ -268,7 +252,9 @@ I bought this capture card to connect my camera to whatever machine needs it,
 even when traveling. It connects using Thunderbolt 3, really USB4 in my case,
 to provide data and power. This card supports Linux at a lower price point than
 Magewell cards and I've used Blackmagic Design's DaVinci Resolve video editor
-before so I was familiar with the brand.
+before so I was familiar with the brand. I ended up replacing this with the
+Magewell USB Capture HDMI 4K Pro but I still use it for secondary inputs like a
+gaming console.
 
 ## Lighting
 

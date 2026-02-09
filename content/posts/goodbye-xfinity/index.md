@@ -36,6 +36,27 @@ with a bunch of fineprint beneath. I was already paying $121/month for Xfinity
 Xfinity and save myself some money. I ended up signing up for Optimum Fiber
 5000/5000 for $75/month.
 
+## Notes for the Non-Technical Reader
+
+I shared this post on a local Facebook group via my wife's Facebook account.
+That audience is non-technical compared to the typical audience on this blog.
+This section is for those non-technical people.
+
+For 99% of people, switching from Xfinity to Optimum Fiber is going to work
+just fine. You sign up for the service, get a technician to install the fiber,
+and use their provided equipment as your Wi-Fi access point and router. If you
+already have your own Wi-Fi access point or router, just tell the technician
+you want to use your equipment instead. That's it! Enjoy your cheaper, faster
+service and send the signal to Xfinity that their service is no longer needed.
+
+The rest of this blog post is for those who wish to better understand the
+technical details of how Optimum works compared to Xfinity. If I were you and
+were considering switching, I'd ask the most technical person in your house,
+or whoever will be installing your service, to read the rest of this post.
+Perhaps the details will be of value to them and allow them to make better,
+or different, technical decisions for your installation. It's good to be well
+informed.
+
 ## Comparing Optimum Fiber to Xfinity
 
 If you're looking to switch from Xfinity to Optimum Fiber you should take note

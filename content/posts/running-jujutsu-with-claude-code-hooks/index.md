@@ -5,7 +5,7 @@ summary     = "Let's use Jujutsu with Claude Code hooks to never lose edits."
 keywords    = ["AI", "Jujutsu", "jj", "hook"]
 date        = "2025-06-30T23:00:00-04:00"
 publishDate = "2025-06-30T23:00:00-04:00"
-lastmod     = "2025-06-30T23:00:00-04:00"
+lastmod     = "2026-02-11T23:00:00-05:00"
 draft       = false
 aliases     = []
 featureAlt  = "The Jujutsu logo and Claude Code logo with a heart in between."
@@ -218,6 +218,11 @@ or `jj show`.
 That means we can greatly simplify our approach here and just run `jj show`
 instead of `jj commit`. We don't even need a custom program!
 
+> **Note**: A reader named Jason reached out to me noting that `jj show` can
+contain large output that negatively impacts Claude. To work around this issue,
+you can pipe the output of `jj show` and `jj log` to `/dev/null` or you can use
+options that limit the command output (e.g., `jj show --summary`).
+
 ```json
 {
   "hooks": {
@@ -227,7 +232,7 @@ instead of `jj commit`. We don't even need a custom program!
         "hooks": [
           {
             "type": "command",
-            "command": "jj show"
+            "command": "jj show --summary"
           }
         ]
       }

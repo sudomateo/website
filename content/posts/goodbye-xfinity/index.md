@@ -5,10 +5,10 @@ summary     = "Recounting my experience switching from Xfinity to Optimum Fiber.
 keywords    = []
 date        = "2026-02-02T00:48:29-05:00"
 publishDate = "2026-02-02T00:48:29-05:00"
-lastmod     = "2026-02-09T18:00:00-05:00"
+lastmod     = "2026-02-19T12:00:00-05:00"
 draft       = false
 aliases     = []
-featureAlt  = "An internet speed test showing 3.1 Gbps download and 2.0 Gbps upload."
+featureAlt  = "An internet speed test showing 5.0 Gbps download and 5.0 Gbps upload."
 
 # Taxonomies.
 categories = []
@@ -95,8 +95,8 @@ some IPv6 transition service like Optimum suggested. My equipment is perfectly
 capable of IPv6. Optimum's equipment should be too. Lame!
 
 * Optimum Fiber has really good performance. I'm seeing unloaded and loaded
-latency under 5ms and 3000/3000 speeds with my 5000/5000 plan. Of course you'll
-need a router with at least a 2.5 GbE port to take advantage of speeds over 1000
+latency under 5ms and 5000/5000 speeds with my 5000/5000 plan. Of course you'll
+need a router with at least a 10 GbE port to take advantage of 5000/5000 speeds
 but you already knew that. My WAN port is linked at 10 GbE so I'm good.
 
 ## Should You Switch?

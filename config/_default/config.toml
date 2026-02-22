@@ -2,7 +2,7 @@
 # using Hugo Modules. If the theme changes revisit this.
 # theme = "congo"
 
-baseURL = "https://matthewsanabria.dev"
+baseURL = "https://website.matthew-sanabria.workers.dev"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
 summaryLength = 0

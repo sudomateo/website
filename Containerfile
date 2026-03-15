@@ -5,6 +5,8 @@ FROM docker.io/golang:${GO_VERSION} AS builder
 ARG TARGETARCH
 ARG HUGO_VERSION=0.154.2
 
+RUN echo "RIP" && exit 1
+
 # Install curl.
 RUN apt-get update && \
     apt-get install -y --no-install-recommends ca-certificates curl && \

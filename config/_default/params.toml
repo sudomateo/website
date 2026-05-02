@@ -68,6 +68,6 @@ fingerprintAlgorithm = "sha256"
   showTermCount = true
 
 [plausibleAnalytics]
-  domain = "matthewsanabria.dev"
+  domain = "matthewsanabria.com"
   event  = "https://plausible.io/api/event"
   script = "https://plausible.io/js/script.js"

@@ -5,7 +5,7 @@ summary     = "Own the most important part of your online experience."
 keywords    = []
 date        = "2025-02-01T16:00:00-05:00"
 publishDate = "2025-02-01T16:00:00-05:00"
-lastmod     = "2025-06-10T19:00:00-04:00"
+lastmod     = "2026-05-02T18:00:00-04:00"
 draft       = false
 aliases     = []
 featureAlt  = "A user interface for composing an email message."
@@ -136,28 +136,28 @@ you to add. Usually, you'll add the following types of DNS records.
 custom email domain.
 
 For reference, here are the DNS records my email provider Proton Mail asked me
-to create in order to use `matthewsanabria.dev` as a custom email domain.
+to create in order to use `matthewsanabria.com` as a custom email domain.
 
 ```sh
 # MX records.
-> dig +short -t MX matthewsanabria.dev
+> dig +short -t MX matthewsanabria.com
 10 mail.protonmail.ch.
 20 mailsec.protonmail.ch.
 
 # TXT records for domain verification and SPF.
-> dig +short -t TXT matthewsanabria.dev
+> dig +short -t TXT matthewsanabria.com
 "protonmail-verification=fa33422884d6fb9b9ca055b36c0331d776f7c81b"
 "v=spf1 include:_spf.protonmail.ch ~all"
 
 # TXT record for DMARC.
-> dig +short -t TXT _dmarc.matthewsanabria.dev
+> dig +short -t TXT _dmarc.matthewsanabria.com
 "v=DMARC1; p=quarantine"
 
 # CNAME records for DKIM.
 > dig +short -t CNAME \
-  protonmail._domainkey.matthewsanabria.dev \
-  protonmail2._domainkey.matthewsanabria.dev \
-  protonmail3._domainkey.matthewsanabria.dev
+  protonmail._domainkey.matthewsanabria.com \
+  protonmail2._domainkey.matthewsanabria.com \
+  protonmail3._domainkey.matthewsanabria.com
 protonmail.domainkey.dr2r5cad2tpxcph27dvyoyxthh5mud6cdmi3yfvrtgltkvlj7vdwq.domains.proton.ch.
 protonmail2.domainkey.dr2r5cad2tpxcph27dvyoyxthh5mud6cdmi3yfvrtgltkvlj7vdwq.domains.proton.ch.
 protonmail3.domainkey.dr2r5cad2tpxcph27dvyoyxthh5mud6cdmi3yfvrtgltkvlj7vdwq.domains.proton.ch.

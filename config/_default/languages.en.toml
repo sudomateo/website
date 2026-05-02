@@ -29,7 +29,7 @@ title = "Matthew Sanabria"
     """
   # Table keys are icon names from `assets/icons` in the theme.
   links = [
-    { bluesky   = "https://bsky.app/profile/matthewsanabria.dev" },
+    { bluesky   = "https://bsky.app/profile/matthewsanabria.com" },
     { email     = "mailto:me@matthewsanabria.com" },
     { github    = "https://github.com/sudomateo" },
     { linkedin  = "https://linkedin.com/in/matthew-sanabria" },

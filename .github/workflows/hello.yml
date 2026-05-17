@@ -1,0 +1,46 @@
+---
+name: Hello World
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  hello:
+    runs-on: matthewsanabria
+    steps:
+      - name: Say hello
+        run: echo "Hello from $(hostname)"
+
+  system-info:
+    runs-on: matthewsanabria
+    steps:
+      - name: Show system info
+        run: |
+          echo "Kernel: $(uname -a)"
+          echo "CPU: $(nproc) cores"
+          echo "Memory: $(free -h | awk '/^Mem:/ {print $2}')"
+          echo "Disk: $(df -h / | awk 'NR==2 {print $4}') free on /"
+
+  runner-identity:
+    runs-on: matthewsanabria
+    steps:
+      - name: Check runner identity
+        run: |
+          echo "Running as: $(whoami)"
+          echo "Home: $HOME"
+          echo "Working directory: $(pwd)"
+
+  network-check:
+    runs-on: matthewsanabria
+    steps:
+      - name: Verify network connectivity
+        run: |
+          curl -fsSL -o /dev/null -w "github.com: %{http_code}\n" https://github.com
+          curl -fsSL -o /dev/null -w "api.github.com: %{http_code}\n" https://api.github.com
+
+  checkout-test:
+    runs-on: matthewsanabria
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4

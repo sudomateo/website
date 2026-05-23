@@ -160,9 +160,9 @@ market for a mouse.
 
 Even though I work with computers I prefer physical writing to digital writing.
 Fountain pens are fun to write with and helped reignite my joy for writing.
-These LAMY safari pens are inexpensive and a popular choice for fountain pens
+These LAMY safari pens are inexpensive and a popular choice for fountain pen
 users. I have a Yellow pen with a Fine nib filled with Ancient Copper ink and an
-Umbra pen Fine nib filled with Sherwood Green.
+Umbra pen with a Fine nib filled with Sherwood Green ink.
 
 ### Platinum Plaisir Fountain Pen
 
@@ -191,7 +191,7 @@ and Notebook, both in B5 size and hardcover.
 [Link](https://www.shure.com/en-US/products/microphones/sm7b)
 
 I had a Blue Yeti previously and I didn't care for its mini USB connection
-and audio quality so I upgraded to the Shure SM7B. Honestly I didn't do much
+and audio quality so I upgraded to the Shure SM7B. Honestly, I didn't do much
 research here I just went with the microphone that was most popular with content
 creators on Twitch and YouTube. Perhaps I should have done more research here
 since I ended up buying a Cloudlifter CL-1 and Focusrite Scarlett 2i2 (3rd
@@ -203,8 +203,8 @@ Rodecaster Duo.
 [Link](https://rode.com/en-us/interfaces-and-mixers/rodecaster-series/rodecaster-duo)
 
 I replaced the Cloudlifter CL-1, Focusrite Scarlett 2i2 (3rd Gen), and Schiit
-Vali 2 with this Rodecaster Duo and I should have just bit the bullet up front
-and got this device way sooner. Love this thing!
+Vali 2 with this Rodecaster Duo and I should have just bitten the bullet up
+front and gotten this device way sooner. Love this thing!
 
 ### Beyerdynamic DT 990 Pro
 
@@ -265,7 +265,7 @@ gaming console.
 I have two of these lights to help balance lighting in my office. I have four
 windows in my office and I noticed that there are shadows on my face at certain
 times of the day. These lights remove those shadows and keep me looking great
-regardless what time it is.
+regardless of what time it is.
 
 ## Rigging
 

@@ -13,6 +13,9 @@ featureAlt  = "A bunch of US currency coins in a pile on a desk."
 # Taxonomies.
 categories = []
 tags       = []
+
+[standardSite]
+  documentAtUri = "at://did:plc:brfbmfg2d2ug37sxe7yehocc/site.standard.document/3mmzyafulzc2e"
 +++
 
 This is my salary transparency page, inspired by [Xe Iaso's salary

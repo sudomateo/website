@@ -24,3 +24,4 @@ RUN hugo --destination public
 FROM docker.io/nginx:latest AS production
 
 COPY --from=builder /app/public /usr/share/nginx/html
+COPY nginx/default.conf /etc/nginx/conf.d/default.conf

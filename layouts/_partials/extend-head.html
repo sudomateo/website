@@ -1,0 +1,24 @@
+{{/*
+  standard.site link tags.
+
+  - The publication discovery hint is emitted on the home page and on any page
+    that has a document AT-URI in its front matter. This matches Bluesky's
+    enhanced link card requirements.
+  - Pages with [standardSite] documentAtUri in front matter additionally emit
+    the document verification link.
+
+  See https://standard.site/docs/verification/ and
+  https://github.com/bluesky-social/atproto/discussions/4978.
+*/}}
+{{- $documentAtUri := "" }}
+{{- with .Params.standardSite }}
+  {{- $documentAtUri = .documentAtUri }}
+{{- end }}
+{{- if or .IsHome $documentAtUri }}
+  {{- with .Site.Params.standardSite.publicationAtUri }}
+  <link rel="site.standard.publication" href="{{ . | safeURL }}" />
+  {{- end }}
+{{- end }}
+{{- with $documentAtUri }}
+  <link rel="site.standard.document" href="{{ . | safeURL }}" />
+{{- end }}

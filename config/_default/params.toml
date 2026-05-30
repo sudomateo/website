@@ -11,6 +11,12 @@ enableImageWebp        = true
 
 fingerprintAlgorithm = "sha256"
 
+# standard.site publication AT-URI. Drives the homepage discovery hint <link>
+# tag. Must match the AT-URI served from /.well-known/site.standard.publication.
+# https://standard.site/docs/verification/
+[standardSite]
+  publicationAtUri = "at://did:plc:brfbmfg2d2ug37sxe7yehocc/site.standard.publication/3mmzudaqrtc2e"
+
 [header]
   layout    = "basic"
   showTitle = true
